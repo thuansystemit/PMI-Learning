@@ -32,7 +32,7 @@
 | The methods may be somewhat different in projects as opposed to operations, but the underlying principle associated with focusing on value can apply to both. | Các phương pháp có thể khác nhau đôi chút trong dự án so với hoạt động, nhưng nguyên tắc cơ bản liên quan đến tập trung vào giá trị có thể áp dụng cho cả hai. |
 | Figure 3-1 demonstrates this overlap. | Hình 3-1 minh họa sự chồng chéo này. |
 
-![Figure_3-1._Overlap_of_Project_Management_and_General_Management_Principles](section3/Figure_3-1_Overlap_of_Project_Management_and_General_Management_Principles.png)
+![Figure_3-1._Overlap_of_Project_Management_and_General_Management_Principles](section3/Figure_3-1._Overlap_of_Project_Management_and_General_Management_Principles.png)
 
 | English | Vietnamese |
 |---------|------------|
@@ -54,7 +54,7 @@
 | ▶ Embrace adaptability and resiliency (see Section 3.11). | ▶ Chấp nhận khả năng thích ứng và tính phục hồi (xem Mục 3.11). |
 | ▶ Enable change to achieve the envisioned future state (see Section 3.12). | ▶ Thúc đẩy thay đổi để đạt được trạng thái tương lai mong đợi (xem Mục 3.12). |
 
-![Figure_3-2._Be_a_Diligent,_Respectful,_and_Caring_Steward.png](section3/Figure_3-2._Be_a_Diligent,_Respectful,_and_Caring_Steward.png.png)
+![Figure_3-2._Be_a_Diligent_Respectful_and_Caring_Steward.png](section3/Figure_3-2._Be_a_Diligent_Respectful_and_Caring_Steward.png)
 
 | English | Vietnamese |
 |---------|------------|
