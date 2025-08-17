@@ -402,3 +402,861 @@
 | An example of a hybrid approach could be using an adaptive approach to develop a product that has significant uncertainty associated with the requirements. However, the deployment of the product can be done using a predictive approach. | Một ví dụ về phương pháp lai có thể là sử dụng phương pháp thích nghi để phát triển một sản phẩm có sự không chắc chắn lớn liên quan đến các yêu cầu. Tuy nhiên, việc triển khai sản phẩm có thể được thực hiện bằng phương pháp dự đoán. |
 | Another example is a project with two main deliverables where one deliverable is developed using an adaptive approach and the other using a predictive approach. | Một ví dụ khác là một dự án có hai kết quả bàn giao chính, trong đó một kết quả được phát triển theo phương pháp thích nghi và kết quả còn lại theo phương pháp dự đoán. |
 
+![Figure 2-8](Project/Figure_2-8._Iterative_and_Incremental_Development.png)
+
+| English | Vietnamese |
+|---------|------------|
+| As part of the community center, a project to establish senior services could be developed and deployed iteratively. | Là một phần của trung tâm cộng đồng, một dự án để thiết lập các dịch vụ cho người cao tuổi có thể được phát triển và triển khai theo phương pháp lặp lại (iterative). |
+| For example, the first iteration could be a Meals on Wheels program. | Ví dụ, lần lặp đầu tiên có thể là một chương trình “Meals on Wheels” (Cơm đến tận nhà). |
+| This could be followed by a transportation service, then group outings and events, caregiver relief, adult day care, and so forth. | Sau đó có thể là dịch vụ vận chuyển, tiếp theo là các chuyến đi và sự kiện nhóm, hỗ trợ người chăm sóc, chăm sóc ban ngày cho người lớn, v.v. |
+| Each service would be complete on its own and could be deployed when it was available. | Mỗi dịch vụ sẽ hoàn thiện riêng và có thể triển khai khi sẵn sàng. |
+| Each additional service would improve and increase the senior services for the community. | Mỗi dịch vụ bổ sung sẽ cải thiện và mở rộng các dịch vụ cho người cao tuổi trong cộng đồng. |
+| A project to establish training for community action patrol volunteers could use an incremental approach. | Một dự án để thiết lập chương trình đào tạo cho tình nguyện viên tuần tra hành động cộng đồng có thể sử dụng phương pháp gia tăng (incremental). |
+| The training, comprised of basic training, logistics training, and patrol training, can be developed by different people. | Chương trình đào tạo, bao gồm đào tạo cơ bản, đào tạo hậu cần và đào tạo tuần tra, có thể được phát triển bởi nhiều người khác nhau. |
+| It can be developed at the same time in modules, or one module can be developed, feedback gathered, and then subsequent modules can be developed. | Nó có thể được phát triển đồng thời theo các mô-đun, hoặc phát triển một mô-đun, thu thập phản hồi, và sau đó phát triển các mô-đun tiếp theo. |
+| However, the community action patrol training program will only be complete after all the modules are developed, integrated, and deployed. | Tuy nhiên, chương trình đào tạo tuần tra hành động cộng đồng chỉ được coi là hoàn tất sau khi tất cả các mô-đun được phát triển, tích hợp và triển khai. |
+| English | Vietnamese |
+|---------|------------|
+| Adaptive approach. Adaptive approaches are useful when requirements are subject to a high level of uncertainty and volatility and are likely to change throughout the project. | Phương pháp thích nghi (Adaptive). Phương pháp thích nghi hữu ích khi các yêu cầu chịu nhiều mức độ không chắc chắn và biến động, và có khả năng thay đổi trong suốt dự án. |
+| A clear vision is established at the start of the project, and the initial known requirements are refined, detailed, changed, or replaced in accordance with user feedback, the environment, or unexpected events. | Một tầm nhìn rõ ràng được thiết lập ngay từ đầu dự án, và các yêu cầu ban đầu đã biết sẽ được tinh chỉnh, chi tiết hóa, thay đổi hoặc thay thế theo phản hồi của người dùng, môi trường, hoặc các sự kiện bất ngờ. |
+| Adaptive approaches use iterative and incremental approaches. However, on the far side of the adaptive methods, the iterations tend to get shorter and the product is more likely to evolve based on stakeholder feedback. | Phương pháp thích nghi sử dụng các phương pháp lặp lại (iterative) và gia tăng (incremental). Tuy nhiên, ở mức cao hơn của các phương pháp thích nghi, các lần lặp thường ngắn hơn và sản phẩm có khả năng tiến triển dựa trên phản hồi của các bên liên quan. |
+| While agility is a wide mindset that is broader than a development framework, agile approaches can be considered adaptive. | Mặc dù tính linh hoạt (agility) là một tư duy rộng hơn khung phát triển, các phương pháp agile có thể được coi là phương pháp thích nghi. |
+| Some agile approaches entail iterations that are 1 to 2 weeks in duration with a demonstration of the accomplishments at the end of each iteration. | Một số phương pháp agile có các lần lặp kéo dài từ 1 đến 2 tuần với việc trình bày kết quả hoàn thành vào cuối mỗi lần lặp. |
+| The project team is very engaged with the planning for each iteration. | Nhóm dự án tham gia tích cực vào việc lập kế hoạch cho mỗi lần lặp. |
+| The project team will determine the scope they can achieve based on a prioritized backlog, estimate the work involved, and work collaboratively throughout the iteration to develop the scope. | Nhóm dự án sẽ xác định phạm vi họ có thể đạt được dựa trên danh sách ưu tiên, ước lượng công việc liên quan và làm việc hợp tác trong suốt lần lặp để phát triển phạm vi. |
+| English | Vietnamese |
+|---------|------------|
+| The community center will need a website so community members can access information from their home computer, phone, or tablet. | Trung tâm cộng đồng sẽ cần một trang web để các thành viên cộng đồng có thể truy cập thông tin từ máy tính, điện thoại hoặc máy tính bảng tại nhà. |
+| The high-level requirements, design, and page layouts can be defined up front. | Các yêu cầu cấp cao, thiết kế và bố cục trang có thể được xác định từ đầu. |
+| An initial set of information can be deployed on the website. | Một bộ thông tin ban đầu có thể được triển khai trên trang web. |
+| User feedback, new services, and internal stakeholder needs would provide content for a backlog. | Phản hồi của người dùng, dịch vụ mới và nhu cầu của các bên liên quan nội bộ sẽ cung cấp nội dung cho danh sách công việc tồn đọng (backlog). |
+| The backlog information would be prioritized, and the web team would develop and deploy new content. | Thông tin trong backlog sẽ được ưu tiên, và nhóm phát triển web sẽ phát triển và triển khai nội dung mới. |
+| As new requirements and new scope emerge, the estimates for the work would be developed, the work would be done, and once tested, it would be demonstrated for stakeholders. | Khi các yêu cầu mới và phạm vi mới xuất hiện, ước lượng công việc sẽ được phát triển, công việc sẽ được thực hiện, và sau khi kiểm tra, nó sẽ được trình bày cho các bên liên quan. |
+| If approved, the work would be deployed to the website. | Nếu được phê duyệt, công việc sẽ được triển khai lên trang web. |
+| English | Vietnamese |
+|---------|------------|
+| There are several factors that influence the selection of a development approach. They can be divided into categories of the product, service, or result; the project; and the organization. | Có một số yếu tố ảnh hưởng đến việc lựa chọn phương pháp phát triển. Chúng có thể được chia thành các loại: sản phẩm, dịch vụ hoặc kết quả; dự án; và tổ chức. |
+| The following subsections describe the variables associated with each category. | Các phần dưới đây mô tả các biến liên quan đến từng loại. |
+| Product, Service, or Result | Sản phẩm, Dịch vụ hoặc Kết quả |
+| There are many variables associated with the nature of the product, service, or result that influence the development approach. | Có nhiều biến liên quan đến bản chất của sản phẩm, dịch vụ hoặc kết quả ảnh hưởng đến phương pháp phát triển. |
+| The following list outlines some of the variables to consider when selecting the development approach. | Danh sách dưới đây nêu một số biến cần cân nhắc khi lựa chọn phương pháp phát triển. |
+| Degree of innovation. Deliverables where the scope and requirements are well understood, that the project team has worked with before, and that allow for planning up front are well suited to a predictive approach. Deliverables that have a high degree of innovation or where the project team does not have experience are better suited to a more adaptive approach. | Mức độ đổi mới. Các sản phẩm mà phạm vi và yêu cầu được hiểu rõ, nhóm dự án đã từng thực hiện trước đó, và cho phép lập kế hoạch trước, phù hợp với phương pháp dự đoán (predictive). Các sản phẩm có mức độ đổi mới cao hoặc nhóm dự án chưa có kinh nghiệm sẽ phù hợp hơn với phương pháp thích ứng (adaptive). |
+| Requirements certainty. When the requirements are well known and easy to define, a predictive approach fits well. When requirements are uncertain, volatile, or complex and are expected to evolve throughout the project, a more adaptive approach may be a better fit. | Độ chắc chắn của yêu cầu. Khi các yêu cầu được biết rõ và dễ định nghĩa, phương pháp dự đoán (predictive) phù hợp. Khi các yêu cầu không chắc chắn, biến động hoặc phức tạp và dự kiến sẽ thay đổi trong suốt dự án, phương pháp thích ứng (adaptive) có thể phù hợp hơn. |
+| English | Vietnamese |
+|---------|------------|
+| Scope stability. If the scope of the deliverable is stable and not likely to change, a predictive approach is useful. If the scope is expected to have many changes, an approach that is closer to the adaptive side of the spectrum can be useful. | Ổn định phạm vi. Nếu phạm vi của sản phẩm giao nhận ổn định và không có khả năng thay đổi, phương pháp dự đoán (predictive) sẽ hữu ích. Nếu phạm vi dự kiến sẽ thay đổi nhiều, phương pháp gần với phía thích ứng (adaptive) sẽ phù hợp hơn. |
+| Ease of change. Related to the requirements certainty and the scope stability, if the nature of the deliverable makes it difficult to manage and incorporate changes, then a predictive approach is best. Deliverables that can adapt easily to change can use an approach that is more adaptive. | Dễ thay đổi. Liên quan đến độ chắc chắn của yêu cầu và sự ổn định phạm vi, nếu bản chất của sản phẩm làm cho việc quản lý và tích hợp thay đổi trở nên khó khăn, phương pháp dự đoán (predictive) là tốt nhất. Các sản phẩm dễ thích ứng với thay đổi có thể sử dụng phương pháp thích ứng (adaptive). |
+| Delivery options. As described in Section 2.3.2 on Delivery Cadence, the nature of the deliverable and whether it can be delivered in components influences the development approach. Products, services, or results that can be developed and/or delivered in pieces are aligned with incremental, iterative, or adaptive approaches. Some large projects may be planned using a predictive approach, but there may be some pieces that can be developed and delivered incrementally. | Các lựa chọn giao hàng. Như đã mô tả ở Mục 2.3.2 về Nhịp độ giao hàng (Delivery Cadence), bản chất của sản phẩm và khả năng giao thành các thành phần ảnh hưởng đến phương pháp phát triển. Các sản phẩm, dịch vụ hoặc kết quả có thể được phát triển và/hoặc giao từng phần phù hợp với các phương pháp tăng dần (incremental), lặp đi lặp lại (iterative), hoặc thích ứng (adaptive). Một số dự án lớn có thể được lập kế hoạch theo phương pháp dự đoán (predictive), nhưng vẫn có những phần có thể được phát triển và giao theo từng bước. |
+| Risk. Products that are inherently high risk require analysis before choosing the development approach. Some high-risk products may require significant up-front planning and rigorous processes to reduce threats. Other products can reduce risk by building them modularly and adapting the design and development based on learning to take advantage of emerging opportunities or reduce the exposure to threats. | Rủi ro. Các sản phẩm vốn có rủi ro cao cần phân tích trước khi lựa chọn phương pháp phát triển. Một số sản phẩm có rủi ro cao có thể yêu cầu lập kế hoạch trước đáng kể và các quy trình nghiêm ngặt để giảm thiểu rủi ro. Các sản phẩm khác có thể giảm rủi ro bằng cách xây dựng theo mô-đun và điều chỉnh thiết kế, phát triển dựa trên việc học hỏi để tận dụng cơ hội mới hoặc giảm thiểu nguy cơ. |
+| Safety requirements. Products that have rigorous safety requirements often use a predictive approach as there is a need for significant up-front planning to ensure that all the safety requirements are identified, planned for, created, integrated, and tested. | Yêu cầu về an toàn. Các sản phẩm có yêu cầu an toàn nghiêm ngặt thường sử dụng phương pháp dự đoán (predictive) vì cần lập kế hoạch trước đáng kể để đảm bảo tất cả các yêu cầu về an toàn được xác định, lập kế hoạch, tạo ra, tích hợp và kiểm tra. |
+| Regulations. Environments that have significant regulatory oversight may need to use a predictive approach due to the required process, documentation, and demonstration needs. | Quy định. Các môi trường có giám sát quy định nghiêm ngặt có thể cần sử dụng phương pháp dự đoán (predictive) do yêu cầu về quy trình, tài liệu và chứng minh. |
+| Project variables that influence the development approach are centered around stakeholders, schedule constraints, and funding availability. | Các biến của dự án ảnh hưởng đến phương pháp phát triển tập trung vào các bên liên quan, hạn chế về lịch trình và khả năng tài trợ. |
+| Stakeholders. Projects that use adaptive methods require significant stakeholder involvement throughout the process. Certain stakeholders, such as the product owner, play a substantial role in establishing and prioritizing work. | Các bên liên quan. Các dự án sử dụng phương pháp thích ứng (adaptive) yêu cầu sự tham gia đáng kể của các bên liên quan trong suốt quá trình. Một số bên liên quan nhất định, chẳng hạn như chủ sở hữu sản phẩm (product owner), đóng vai trò quan trọng trong việc xác định và ưu tiên công việc. |
+| English | Vietnamese |
+|---------|------------|
+| Schedule constraints. If there is a need to deliver something early, even if it is not a finished product, an iterative or adaptive approach is beneficial. | Hạn chế về lịch trình. Nếu cần giao một sản phẩm sớm, ngay cả khi nó chưa hoàn thiện, phương pháp lặp đi lặp lại (iterative) hoặc thích ứng (adaptive) sẽ có lợi. |
+| Funding availability. Projects that work in an environment of funding uncertainty can benefit from an adaptive or iterative approach. A minimum viable product can be released with less investment than an elaborate product. This allows for market testing or market capture with minimum investment. Further investments can be made based on the market response to the product or service. | Khả năng tài trợ. Các dự án hoạt động trong môi trường tài trợ không chắc chắn có thể hưởng lợi từ phương pháp thích ứng (adaptive) hoặc lặp đi lặp lại (iterative). Một sản phẩm khả thi tối thiểu (minimum viable product) có thể được phát hành với chi phí thấp hơn so với sản phẩm phức tạp. Điều này cho phép thử nghiệm thị trường hoặc chiếm lĩnh thị trường với mức đầu tư tối thiểu. Các khoản đầu tư tiếp theo có thể được thực hiện dựa trên phản hồi của thị trường đối với sản phẩm hoặc dịch vụ. |
+| English | Vietnamese |
+|---------|------------|
+| Organizational structure. An organizational structure that has many levels, a rigid reporting structure, and substantial bureaucracy frequently uses a predictive approach. Projects that use adaptive methods tend to have a flat structure and may operate with self-organizing project teams. | Cấu trúc tổ chức. Một cấu trúc tổ chức có nhiều cấp, cấu trúc báo cáo cứng nhắc và nhiều thủ tục thường sử dụng phương pháp dự đoán (predictive). Các dự án sử dụng phương pháp thích ứng (adaptive) có xu hướng có cấu trúc phẳng và có thể vận hành với các nhóm dự án tự tổ chức. |
+| Culture. A predictive approach fits better in an organization with a culture of managing and directing, where the work is planned out and progress is measured against baselines. Adaptive approaches fit better within an organization that emphasizes project team self-management. | Văn hóa. Phương pháp dự đoán (predictive) phù hợp hơn với tổ chức có văn hóa quản lý và chỉ đạo, nơi công việc được lập kế hoạch trước và tiến độ được đo lường theo các chuẩn cơ sở. Phương pháp thích ứng (adaptive) phù hợp hơn với tổ chức nhấn mạnh tự quản lý của nhóm dự án. |
+| Organizational capability. Transitioning from predictive development approaches to adaptive approaches and then to using agile methods is more than just stating that the organization will now be agile. It entails shifting the mindset starting at the executive level throughout the organization. Organizational policies, ways of working, reporting structure, and attitude should all be aligned in order to employ adaptive methods successfully. | Năng lực tổ chức. Việc chuyển từ phương pháp phát triển dự đoán (predictive) sang phương pháp thích ứng (adaptive) và sau đó sử dụng các phương pháp agile không chỉ đơn giản là tuyên bố tổ chức sẽ áp dụng agile. Nó đòi hỏi thay đổi tư duy bắt đầu từ cấp điều hành và lan tỏa trong toàn tổ chức. Các chính sách tổ chức, cách thức làm việc, cấu trúc báo cáo và thái độ đều phải được đồng bộ để triển khai thành công các phương pháp thích ứng. |
+| Project team size and location. Adaptive approaches, especially agile methods, often work better with project teams of 7 ± 2. Adaptive approaches also favor project teams that are located in the same physical space. Large project teams and project teams that are mostly virtual may do better by using an approach that is closer to the predictive side of the spectrum. However, there are approaches that seek to scale up the adaptive approaches to work with large and dispersed project teams. | Quy mô và vị trí nhóm dự án. Các phương pháp thích ứng, đặc biệt là phương pháp agile, thường hoạt động tốt hơn với các nhóm dự án từ 5 đến 9 người (7 ± 2). Các phương pháp thích ứng cũng ưu tiên nhóm dự án cùng ở một không gian vật lý. Các nhóm dự án lớn và chủ yếu làm việc từ xa có thể phù hợp hơn với phương pháp gần với dự đoán (predictive). Tuy nhiên, cũng có các phương pháp nhằm mở rộng các phương pháp thích ứng để làm việc với các nhóm dự án lớn và phân tán. |
+| English | Vietnamese |
+|---------|------------|
+| The type and number of project phases in a project life cycle depend upon many variables, chief among them the delivery cadence and the development approach, as described previously. | Loại và số lượng các pha dự án trong vòng đời dự án phụ thuộc vào nhiều biến số, trong đó quan trọng nhất là nhịp độ giao hàng (delivery cadence) và phương pháp phát triển (development approach), như đã mô tả trước đó. |
+| Examples of phases in a life cycle include: | Ví dụ về các pha trong vòng đời dự án bao gồm: |
+| Feasibility. This phase determines if the business case is valid and if the organization has the capability to deliver the intended outcome. | Khả thi (Feasibility). Pha này xác định liệu business case có hợp lệ hay không và tổ chức có khả năng cung cấp kết quả dự kiến hay không. |
+| Design. Planning and analysis lead to the design of the project deliverable that will be developed. | Thiết kế (Design). Lập kế hoạch và phân tích dẫn đến thiết kế sản phẩm/dịch vụ/deliverable của dự án sẽ được phát triển. |
+| Build. Construction of the deliverable with integrated quality assurance activities is conducted. | Xây dựng (Build). Thực hiện xây dựng deliverable kèm theo các hoạt động đảm bảo chất lượng tích hợp. |
+| Test. Final quality review and inspection of deliverables are carried out before transition, go-live, or acceptance by the customer. | Kiểm thử (Test). Thực hiện đánh giá chất lượng cuối cùng và kiểm tra deliverable trước khi chuyển giao, triển khai, hoặc được khách hàng chấp nhận. |
+| Deploy. Project deliverables are put into use and transitional activities required for sustainment, benefits realization, and organizational change management are completed. | Triển khai (Deploy). Các deliverable của dự án được đưa vào sử dụng và các hoạt động chuyển tiếp cần thiết cho việc duy trì, hiện thực hóa lợi ích và quản lý thay đổi tổ chức được hoàn tất. |
+| Close. The project is closed, project knowledge and artifacts are archived, project team members are released, and contracts are closed. | Kết thúc (Close). Dự án được đóng, kiến thức và tài liệu dự án được lưu trữ, các thành viên nhóm dự án được giải phóng, và hợp đồng được kết thúc. |
+| Project phases often have a phase gate review (also known as stage gate) to check that the desired outcomes or exit criteria for the phase have been achieved before proceeding to the next phase. Exit criteria may tie to acceptance criteria for deliverables, contractual obligations, meeting specific performance targets, or other tangible measures. | Các pha dự án thường có một đánh giá cổng pha (phase gate review, còn gọi là stage gate) để kiểm tra xem các kết quả mong muốn hoặc tiêu chí thoát của pha đã đạt được chưa trước khi tiến sang pha tiếp theo. Tiêu chí thoát có thể liên quan đến tiêu chí chấp nhận deliverable, nghĩa vụ hợp đồng, đạt các mục tiêu hiệu suất cụ thể hoặc các biện pháp đo lường hữu hình khác. |
+| English | Vietnamese |
+|---------|------------|
+| Figure 2-9 shows a life cycle where one phase finishes before the next one begins. | Hình 2-9 minh họa một vòng đời dự án, trong đó một pha kết thúc trước khi pha tiếp theo bắt đầu. |
+| This type of life cycle would fit well with a predictive development approach since each phase is only performed once, and each phase focuses on a particular type of work. | Loại vòng đời này phù hợp với phương pháp phát triển dự đoán (predictive development approach) vì mỗi pha chỉ được thực hiện một lần và mỗi pha tập trung vào một loại công việc cụ thể. |
+| However, there are situations, such as adding scope, a change in requirements, or a change in the market that cause phases to be repeated. | Tuy nhiên, có những tình huống như mở rộng phạm vi, thay đổi yêu cầu, hoặc thay đổi thị trường khiến các pha phải được lặp lại. |
+
+![Figure 2-9](Project/Figure_2-9._Sample_Predictive_Life_Cycle.png)
+
+| English | Vietnamese |
+|---------|------------|
+| Figure 2-10 shows a life cycle with an incremental development approach. | Hình 2-10 minh họa một vòng đời dự án với phương pháp phát triển theo từng bước (incremental development approach). |
+| There are three iterations of plan, design, and build shown in this example. | Trong ví dụ này có ba lần lặp của các pha lập kế hoạch (plan), thiết kế (design) và xây dựng (build). |
+| Each subsequent build would add functionality to the initial build. | Mỗi lần xây dựng tiếp theo sẽ bổ sung các chức năng vào bản xây dựng ban đầu. |
+
+![Figure 2-10](Project/Figure_2-10._Life_Cycle_with_an_Incremental_Development_Approach.png)
+
+| English | Vietnamese |
+|---------|------------|
+| Figure 2-11 shows a life cycle using an adaptive development approach. | Hình 2-11 minh họa một vòng đời dự án sử dụng phương pháp phát triển thích ứng (adaptive development approach). |
+| At the end of each iteration (sometimes known as a sprint), the customer reviews a functional deliverable. | Vào cuối mỗi lần lặp (đôi khi gọi là sprint), khách hàng sẽ xem xét một sản phẩm có chức năng. |
+| At the review, the key stakeholders provide feedback, and the project team updates the project backlog of features and functions to prioritize for the next iteration. | Trong buổi đánh giá, các bên liên quan chính sẽ cung cấp phản hồi, và nhóm dự án cập nhật backlog các tính năng và chức năng để ưu tiên cho lần lặp tiếp theo. |
+
+![Figure 2-11](Project/Figure_2-11._Life_Cycle_with_Adaptive_Development_Approach.png)
+
+| English | Vietnamese |
+|---------|------------|
+| This approach can be modified for use in continuous delivery situations, as described in Section 2.3.2 on Delivery Cadence. | Phương pháp này có thể được điều chỉnh để sử dụng trong các tình huống giao hàng liên tục (continuous delivery), như đã mô tả trong Mục 2.3.2 về Nhịp độ Giao hàng (Delivery Cadence). |
+
+| English | Vietnamese |
+|---------|------------|
+| Several adaptive methodologies, including agile, use flow-based scheduling, which does not use a life cycle or phases. | Một số phương pháp thích ứng, bao gồm agile, sử dụng lập lịch dựa trên luồng (flow-based scheduling), không sử dụng vòng đời (life cycle) hay các pha (phases). |
+| One goal is to optimize the flow of deliveries based on resource capacity, materials, and other inputs. | Một mục tiêu là tối ưu hóa luồng giao hàng dựa trên năng lực của nguồn lực, vật liệu và các đầu vào khác. |
+| Another goal is to minimize time and resource waste and optimize the efficiency of processes and the throughput of deliverables. | Một mục tiêu khác là giảm thiểu lãng phí thời gian và nguồn lực, đồng thời tối ưu hóa hiệu quả của các quy trình và năng suất giao hàng. |
+| Projects that use these practices and methods usually adopt them from the Kanban scheduling system used in lean and just-in-time scheduling approaches. | Các dự án sử dụng các thực hành và phương pháp này thường áp dụng chúng từ hệ thống lập lịch Kanban, được sử dụng trong các phương pháp lập lịch tinh gọn (lean) và đúng lúc (just-in-time). |
+| English | Vietnamese |
+|---------|------------|
+| 2.3.6 ALIGNING OF DELIVERY CADENCE, DEVELOPMENT APPROACH, AND LIFE CYCLE | 2.3.6 CĂN CHỈNH NHỊP ĐỘ GIAO HÀNG, PHƯƠNG PHÁP PHÁT TRIỂN VÀ VÒNG ĐỜI DỰ ÁN |
+| The community center examples described in Section 2.3.3 will be revisited to demonstrate how the delivery cadence, development approach, and life cycle fit together. | Các ví dụ về trung tâm cộng đồng được mô tả trong Mục 2.3.3 sẽ được xem xét lại để minh họa cách nhịp độ giao hàng, phương pháp phát triển và vòng đời dự án liên kết với nhau. |
+| In this example, there are four products and services: the building, the community action patrol (CAP) training, the senior services, and the website. | Trong ví dụ này, có bốn sản phẩm và dịch vụ: tòa nhà, đào tạo tuần tra hành động cộng đồng (CAP), dịch vụ cho người cao tuổi và trang web. |
+| Table 2-4 describes the delivery cadence and the development approach. | Bảng 2-4 mô tả nhịp độ giao hàng và phương pháp phát triển. |
+
+![Table 2-4](Project/Table_2-4._Delivery_Cadence_and_Development_Approach.png)
+
+| English | Vietnamese |
+|---------|------------|
+| Based on this information, a potential life cycle might be: | Dựa trên thông tin này, một vòng đời tiềm năng có thể là: |
+| ▶ Start Up. Entry criteria for this phase are that the business case has been approved and the project charter has been authorized. | ▶ Khởi động. Tiêu chí đầu vào cho giai đoạn này là hồ sơ kinh doanh đã được phê duyệt và điều lệ dự án đã được ủy quyền. |
+| In this phase, the high-level roadmap is developed, initial funding requirements are established, project team and resource requirements are defined, a milestone schedule is created, and planning for a procurement strategy is defined. | Trong giai đoạn này, lộ trình tổng thể được phát triển, các yêu cầu về ngân sách ban đầu được thiết lập, các yêu cầu về đội dự án và nguồn lực được xác định, lịch trình các mốc quan trọng được tạo ra, và kế hoạch cho chiến lược mua sắm được định nghĩa. |
+| These deliverables should be complete prior to exiting the start-up phase. Exit criteria will be reviewed at an origination phase gate review. | Các sản phẩm giao nộp này cần được hoàn thành trước khi kết thúc giai đoạn khởi động. Tiêu chí kết thúc sẽ được xem xét tại cuộc đánh giá cổng giai đoạn khởi tạo. |
+| ▶ Plan. In this phase, the high-level information for the building is decomposed into detailed plans. | ▶ Lập kế hoạch. Trong giai đoạn này, thông tin tổng thể về tòa nhà được phân tích thành các kế hoạch chi tiết. |
+| A detailed design document for the CAP training is completed. An analysis of the senior services offering is completed along with a gap analysis. The initial wireframe for the website is created. | Tài liệu thiết kế chi tiết cho đào tạo CAP được hoàn tất. Phân tích về dịch vụ dành cho người cao tuổi được hoàn thành cùng với phân tích khoảng cách. Bản phác thảo ban đầu cho trang web được tạo ra. |
+| These deliverables should be complete prior to exiting the planning phase. Exit criteria will be reviewed at a planning phase gate review. | Các sản phẩm giao nộp này cần được hoàn thành trước khi kết thúc giai đoạn lập kế hoạch. Tiêu chí kết thúc sẽ được xem xét tại cuộc đánh giá cổng giai đoạn lập kế hoạch. |
+
+| English | Vietnamese |
+|---------|------------|
+| ▶ Development. This phase will overlap with the test and deploy phases since the deliverables have different delivery cadences and different approaches. | ▶ Phát triển. Giai đoạn này sẽ chồng lấn với các giai đoạn kiểm thử và triển khai vì các sản phẩm giao nộp có nhịp độ và phương pháp khác nhau. |
+| The website will have early deliveries to inform the public of the progress for the community center. Some senior services and the CAP training may begin prior to the opening of the community center. Each deliverable may have a separate review prior to entering the testing phase. | Trang web sẽ có các giao nộp sớm để thông báo cho công chúng về tiến độ của trung tâm cộng đồng. Một số dịch vụ dành cho người cao tuổi và đào tạo CAP có thể bắt đầu trước khi trung tâm cộng đồng mở cửa. Mỗi sản phẩm giao nộp có thể được đánh giá riêng trước khi bước vào giai đoạn kiểm thử. |
+| ▶ Test. This phase will overlap with the development and deploy phases. The type of test will depend on the deliverable. | ▶ Kiểm thử. Giai đoạn này sẽ chồng lấn với các giai đoạn phát triển và triển khai. Loại kiểm thử sẽ phụ thuộc vào sản phẩm giao nộp. |
+| This phase includes inspections for the building, a beta delivery of the CAP courses, small-scale trials for the senior services, and operating in a test environment for each release for the website. Each deliverable will go through the applicable testing prior to moving to the deploy phase. | Giai đoạn này bao gồm kiểm tra công trình, giao nộp phiên bản beta của các khóa đào tạo CAP, thử nghiệm quy mô nhỏ cho dịch vụ người cao tuổi, và vận hành trong môi trường thử nghiệm cho mỗi lần phát hành của trang web. Mỗi sản phẩm giao nộp sẽ trải qua các kiểm thử áp dụng trước khi chuyển sang giai đoạn triển khai. |
+| ▶ Deploy. This phase will overlap with the development and test phases. The first deployment of the website may be somewhat early in the project. | ▶ Triển khai. Giai đoạn này sẽ chồng lấn với các giai đoạn phát triển và kiểm thử. Lần triển khai đầu tiên của trang web có thể diễn ra khá sớm trong dự án. |
+| Activities in this phase will iterate as more deliverables become available. The final deployment for the project will be the opening of the community center. Ongoing updates to the website and the senior services will be part of operations once the community center is open. | Các hoạt động trong giai đoạn này sẽ lặp lại khi có thêm các sản phẩm giao nộp. Lần triển khai cuối cùng của dự án sẽ là việc khai trương trung tâm cộng đồng. Việc cập nhật liên tục cho trang web và các dịch vụ người cao tuổi sẽ là một phần của hoạt động khi trung tâm cộng đồng mở cửa. |
+| ▶ Close. This phase takes place periodically as deliverables are completed. | ▶ Kết thúc. Giai đoạn này diễn ra theo chu kỳ khi các sản phẩm giao nộp được hoàn thành. |
+| When the initial website has been deployed, project personnel (including contractors) will be released and retrospectives or lessons learned for each deliverable will be completed. | Khi trang web ban đầu đã được triển khai, nhân sự dự án (bao gồm nhà thầu) sẽ được giải phóng và các buổi tổng kết hoặc bài học rút ra cho từng sản phẩm giao nộp sẽ được hoàn thành. |
+| When the entire project is done, information from the various phase gate reviews and an overall evaluation of project performance compared to baselines will be conducted. | Khi toàn bộ dự án hoàn tất, thông tin từ các đánh giá cổng giai đoạn khác nhau và đánh giá tổng thể về hiệu suất dự án so với các chuẩn cơ sở sẽ được thực hiện. |
+| Prior to final closeout, the project charter and the business case will be reviewed to determine if the deliverables achieved the intended benefits and value. | Trước khi kết thúc chính thức, điều lệ dự án và hồ sơ kinh doanh sẽ được xem xét để xác định liệu các sản phẩm giao nộp có đạt được các lợi ích và giá trị dự kiến hay không. |
+
+| English | Vietnamese |
+|---------|------------|
+| Figure 2-12 shows a possible life cycle for the community center project. | Hình 2-12 minh họa một vòng đời khả thi cho dự án trung tâm cộng đồng. |
+| The start-up and planning phases are sequential. | Các giai đoạn khởi động và lập kế hoạch diễn ra tuần tự. |
+| The development, test, and deploy phases overlap because the different deliverables will be developed, tested, and deployed at different times, and some deliverables will have multiple deliveries. | Các giai đoạn phát triển, kiểm thử và triển khai chồng lấn nhau vì các sản phẩm giao nộp khác nhau sẽ được phát triển, kiểm thử và triển khai vào các thời điểm khác nhau, và một số sản phẩm giao nộp sẽ có nhiều lần giao nộp. |
+| The development phase is shown in more detail to demonstrate different timing and delivery cadence. | Giai đoạn phát triển được minh họa chi tiết hơn để trình bày thời gian và nhịp độ giao nộp khác nhau. |
+| The test phase cadence would follow the development phase cadence. | Nhịp độ của giai đoạn kiểm thử sẽ theo nhịp độ của giai đoạn phát triển. |
+| The deliveries are shown in the deploy phase. | Các lần giao nộp được minh họa trong giai đoạn triển khai. |
+
+![Figure 2-12](Project/Figure_2-12._Community_Center_Life_Cycle.png)
+
+| English | Vietnamese |
+|---------|------------|
+| What’s in a Name? Not all project practitioners differentiate between the development approach and the life cycle. | Tên gọi có ý nghĩa gì? Không phải tất cả các chuyên gia quản lý dự án đều phân biệt giữa phương pháp phát triển và vòng đời dự án. |
+| Some practitioners will say a project follows an agile life cycle when they are actually talking about the development approach. | Một số chuyên gia sẽ nói rằng một dự án theo vòng đời agile trong khi thực ra họ đang nói về phương pháp phát triển. |
+| Some practitioners refer to predictive approaches as waterfall. | Một số chuyên gia gọi phương pháp dự đoán là phương pháp thác nước (waterfall). |
+| Adaptive development approaches may also be known as evolutionary approaches. | Phương pháp phát triển thích ứng cũng có thể được gọi là phương pháp tiến hóa. |
+| Because project management is evolving, the language used continues to evolve. | Vì quản lý dự án đang phát triển, ngôn ngữ sử dụng cũng tiếp tục thay đổi. |
+| The best way to understand what a person is referring to is to determine how they are developing deliverables and ask them the names of the phases in the life cycle. | Cách tốt nhất để hiểu ý của một người là xác định cách họ phát triển các sản phẩm giao nộp và hỏi tên các giai đoạn trong vòng đời dự án. |
+| This can help frame the project and understand how people are using terms. | Điều này giúp định hình dự án và hiểu cách mọi người sử dụng các thuật ngữ. |
+| English | Vietnamese |
+|---------|------------|
+| 2.3.7 INTERACTIONS WITH OTHER PERFORMANCE DOMAINS | 2.3.7 TƯƠNG TÁC VỚI CÁC LĨNH VỰC HIỆU SUẤT KHÁC |
+| The Development Approach and Life Cycle Performance Domain interacts with the Stakeholder, Planning, Uncertainty, Delivery, Project Work, and Team Performance Domains. | Lĩnh vực Hiệu suất Phương pháp Phát triển và Vòng đời dự án tương tác với các lĩnh vực Quản lý bên liên quan, Lập kế hoạch, Sự không chắc chắn, Giao hàng, Công việc dự án và Hiệu suất đội nhóm. |
+| The life cycle selected impacts the way in which planning is undertaken. | Vòng đời được chọn ảnh hưởng đến cách thức lập kế hoạch được thực hiện. |
+| Predictive life cycles undertake the bulk of the planning up front and then continue to replan by using rolling wave planning and progressive elaboration. | Vòng đời dự đoán thực hiện phần lớn kế hoạch ngay từ đầu và sau đó tiếp tục lập lại kế hoạch bằng cách sử dụng lập kế hoạch theo sóng lăn và phát triển chi tiết dần dần. |
+| Plans are also updated as threats and opportunities materialize. | Kế hoạch cũng được cập nhật khi các mối đe dọa và cơ hội xuất hiện. |
+| The development approach and delivery cadence is one way to reduce uncertainty on projects. | Phương pháp phát triển và nhịp độ giao hàng là một cách để giảm sự không chắc chắn trong các dự án. |
+| A deliverable that has a lot of risk associated with meeting regulatory requirements may choose a predictive approach to build in extra testing, documentation, and robust processes and procedures. | Một sản phẩm giao nộp có nhiều rủi ro liên quan đến việc đáp ứng các yêu cầu quy định có thể chọn phương pháp dự đoán để xây dựng thêm kiểm thử, tài liệu và quy trình cũng như thủ tục chặt chẽ. |
+| A deliverable that has a lot of risk associated with stakeholder acceptance may choose an iterative approach and release a minimum viable product to the market to get feedback before developing additional features and functions. | Một sản phẩm giao nộp có nhiều rủi ro liên quan đến việc được chấp nhận bởi các bên liên quan có thể chọn phương pháp lặp và phát hành sản phẩm khả dụng tối thiểu (MVP) ra thị trường để nhận phản hồi trước khi phát triển các tính năng và chức năng bổ sung. |
+| English | Vietnamese |
+|---------|------------|
+| The Development Approach and Life Cycle Performance Domain has significant overlap with the Delivery Performance Domain when considering delivery cadence and development approach. | Lĩnh vực Hiệu suất Phương pháp Phát triển và Vòng đời dự án có sự chồng lấn đáng kể với Lĩnh vực Hiệu suất Giao hàng khi xem xét nhịp độ giao hàng và phương pháp phát triển. |
+| The delivery cadence is one of the main drivers of delivering value in alignment with the business case and the benefits realization plans. | Nhịp độ giao hàng là một trong những yếu tố chính thúc đẩy việc cung cấp giá trị phù hợp với đề án kinh doanh và các kế hoạch thực hiện lợi ích. |
+| Eliciting the product requirements and meeting the quality requirements as described in the Delivery Performance Domain have a significant influence on the development approach. | Việc thu thập yêu cầu sản phẩm và đáp ứng các yêu cầu chất lượng như được mô tả trong Lĩnh vực Hiệu suất Giao hàng có ảnh hưởng đáng kể đến phương pháp phát triển. |
+| The Team Performance Domain and the Development Approach and Life Cycle Performance Domain interact when it comes to project team capabilities and project team leadership skills. | Lĩnh vực Hiệu suất Đội nhóm và Lĩnh vực Hiệu suất Phương pháp Phát triển và Vòng đời dự án tương tác với nhau khi đề cập đến năng lực của đội dự án và kỹ năng lãnh đạo đội dự án. |
+| The project team’s way of working and the project manager’s style vary significantly depending on the development approach. | Cách làm việc của đội dự án và phong cách của quản lý dự án thay đổi đáng kể tùy thuộc vào phương pháp phát triển. |
+| A predictive approach usually entails more emphasis on up-front planning, measurement, and control. | Phương pháp dự đoán thường nhấn mạnh nhiều hơn vào lập kế hoạch trước, đo lường và kiểm soát. |
+| On the other end of the spectrum, an adaptive approach, especially when using agile methods, requires more of a servant leadership style and may have self-managing project teams. | Ở đầu kia của phổ, phương pháp thích ứng, đặc biệt khi sử dụng các phương pháp agile, đòi hỏi phong cách lãnh đạo phục vụ nhiều hơn và có thể có các đội dự án tự quản lý. |
+| English | Vietnamese |
+|---------|------------|
+| 2.3.8 MEASURING OUTCOMES | 2.3.8 ĐO LƯỜNG KẾT QUẢ |
+| Table 2-5 identifies the outcomes on the left and ways of checking them on the right. | Bảng 2-5 xác định các kết quả ở cột bên trái và các cách kiểm tra chúng ở cột bên phải. |
+
+![Table 2-5](Project/Table_2-5._Checking_Outcomes-Development_Approach_and_Life_Cycle_Performance_Domain.png)
+
+| English | Vietnamese |
+|---------|------------|
+| 2.4 PLANNING PERFORMANCE DOMAIN | 2.4 LĨNH VỰC HIỆU SUẤT LẬP KẾ HOẠCH |
+| Planning organizes, elaborates, and coordinates project work throughout the project. | Lập kế hoạch tổ chức, phát triển chi tiết và điều phối công việc dự án trong suốt quá trình dự án. |
+
+![Figure 2-13](Project/Figure_2-13._Planning_Performance_Domain.png)
+
+| English | Vietnamese |
+|---------|------------|
+| The following definitions are relevant to the Planning Performance Domain: | Các định nghĩa sau liên quan đến Lĩnh vực Hiệu suất Lập kế hoạch: |
+| Estimate. A quantitative assessment of the likely amount or outcome of a variable, such as project costs, resources, effort, or durations. | Ước lượng. Một đánh giá định lượng về số lượng hoặc kết quả có khả năng của một biến, chẳng hạn như chi phí dự án, nguồn lực, nỗ lực, hoặc thời gian thực hiện. |
+| Accuracy. Within the quality management system, accuracy is an assessment of correctness. | Độ chính xác. Trong hệ thống quản lý chất lượng, độ chính xác là đánh giá mức độ đúng đắn. |
+| Precision. Within the quality management system, precision is an assessment of exactness. | Độ tinh xảo. Trong hệ thống quản lý chất lượng, độ tinh xảo là đánh giá mức độ chính xác chi tiết. |
+| Crashing. A method used to shorten the schedule duration for the least incremental cost by adding resources. | Rút ngắn tiến độ (Crashing). Một phương pháp được sử dụng để rút ngắn thời gian biểu với chi phí tăng thêm tối thiểu bằng cách bổ sung nguồn lực. |
+| Fast Tracking. A schedule compression method in which activities or phases normally done in sequence are performed in parallel for at least a portion of their duration. | Thực hiện song song (Fast Tracking). Một phương pháp nén tiến độ, trong đó các hoạt động hoặc giai đoạn vốn được thực hiện theo trình tự sẽ được thực hiện đồng thời trong ít nhất một phần thời gian của chúng. |
+| Budget. The approved estimate for the project or any work breakdown structure (WBS) component or any schedule activity. | Ngân sách. Ước lượng được phê duyệt cho dự án hoặc bất kỳ thành phần nào của cấu trúc phân rã công việc (WBS) hoặc bất kỳ hoạt động nào trong kế hoạch thời gian. |
+
+| English | Vietnamese |
+|---------|------------|
+| 2.4.1 PLANNING OVERVIEW | 2.4.1 TỔNG QUAN VỀ LẬP KẾ HOẠCH |
+| The purpose of planning is to proactively develop an approach to create the project deliverables. | Mục đích của lập kế hoạch là phát triển một phương pháp chủ động để tạo ra các sản phẩm giao dự án. |
+| The project deliverables drive the outcomes the project was undertaken to achieve. | Các sản phẩm giao dự án quyết định kết quả mà dự án được thực hiện để đạt được. |
+| High-level planning may begin prior to project authorization. | Lập kế hoạch ở mức cao có thể bắt đầu trước khi dự án được phê duyệt. |
+| The project team progressively elaborates initial project documents, such as a vision statement, project charter, business case, or similar documents to identify or define a coordinated path to achieve the desired outcomes. | Nhóm dự án sẽ dần dần phát triển các tài liệu dự án ban đầu, chẳng hạn như tuyên bố tầm nhìn, điều lệ dự án, hồ sơ kinh doanh hoặc các tài liệu tương tự, để xác định hoặc định nghĩa một con đường phối hợp nhằm đạt được kết quả mong muốn. |
+| English | Vietnamese |
+|---------|------------|
+| It is becoming more common for initial planning to consider social and environmental impacts in addition to the financial impacts (sometimes referred to as the triple bottom line). | Ngày càng phổ biến khi lập kế hoạch ban đầu xem xét tác động xã hội và môi trường bên cạnh tác động tài chính (đôi khi được gọi là “ba lợi ích”). |
+| This may take the form of a product life cycle assessment which evaluates the potential environmental impacts of a product, process, or system. | Điều này có thể được thực hiện dưới hình thức đánh giá vòng đời sản phẩm, nhằm đánh giá các tác động môi trường tiềm năng của một sản phẩm, quy trình hoặc hệ thống. |
+| The product life cycle assessment informs the design of products and processes. | Đánh giá vòng đời sản phẩm giúp định hướng thiết kế sản phẩm và quy trình. |
+| It considers the impacts of materials and processes with regards to sustainability, toxicity, and the environment. | Nó xem xét các tác động của vật liệu và quy trình liên quan đến tính bền vững, độ độc hại và môi trường. |
+| English | Vietnamese |
+|---------|------------|
+| The amount of time spent planning, both up front and throughout the project, should be determined by the circumstances. | Lượng thời gian dành cho việc lập kế hoạch, cả ban đầu và trong suốt dự án, nên được xác định dựa trên hoàn cảnh cụ thể. |
+| It is inefficient to spend more time planning than is needed. | Việc dành nhiều thời gian hơn mức cần thiết cho việc lập kế hoạch là không hiệu quả. |
+| Therefore, the information gained from planning should be sufficient to move forward in an appropriate manner but not more detailed than necessary. | Do đó, thông tin thu được từ việc lập kế hoạch nên đủ để tiến hành phù hợp nhưng không cần quá chi tiết. |
+| Project teams use planning artifacts to confirm stakeholder expectations and provide stakeholders with the information they need to make decisions, take action, and maintain alignment between the project and stakeholders. | Nhóm dự án sử dụng các tài liệu lập kế hoạch để xác nhận kỳ vọng của các bên liên quan và cung cấp cho họ thông tin cần thiết để đưa ra quyết định, hành động và duy trì sự phù hợp giữa dự án và các bên liên quan. |
+| 2.4.2 PLANNING VARIABLES | 2.4.2 BIẾN SỐ TRONG LẬP KẾ HOẠCH |
+| Because each project is unique, the amount, timing, and frequency of planning varies. | Vì mỗi dự án là duy nhất, lượng, thời điểm và tần suất lập kế hoạch sẽ khác nhau. |
+| Variables that influence how project planning is conducted include, but are not limited to: | Các biến số ảnh hưởng đến cách thực hiện lập kế hoạch dự án bao gồm, nhưng không giới hạn ở: |
+| ▶ Development approach. The development approach can influence how, how much, and when planning is conducted. | ▶ Phương pháp phát triển. Phương pháp phát triển có thể ảnh hưởng đến cách thức, mức độ và thời điểm lập kế hoạch được thực hiện. |
+| Examples include: | Ví dụ bao gồm: |
+| ▹ A specific phase for planning or organizing early in the life cycle. In these situations, much of the planning is performed up front. The initial plans are progressively elaborated with more detail throughout the project, but there is little change to the original scope. | ▹ Một giai đoạn cụ thể để lập kế hoạch hoặc tổ chức sớm trong vòng đời dự án. Trong những tình huống này, phần lớn kế hoạch được thực hiện ngay từ đầu. Các kế hoạch ban đầu được phát triển chi tiết dần theo tiến trình dự án, nhưng hầu như không thay đổi phạm vi ban đầu. |
+| ▹ An approach with high-level planning up front, followed by a design phase where prototyping is used. After the project team and stakeholders agree to the design, the project team completes more detailed planning. | ▹ Một phương pháp với lập kế hoạch tổng thể ban đầu, sau đó là giai đoạn thiết kế sử dụng nguyên mẫu. Khi nhóm dự án và các bên liên quan đồng ý với thiết kế, nhóm dự án hoàn thành việc lập kế hoạch chi tiết hơn. |
+| ▹ Adaptive approaches where the project team conducts iterations. Some planning occurs up front to establish release plans and further planning occurs at the beginning of each iteration. | ▹ Các phương pháp thích ứng, trong đó nhóm dự án thực hiện các vòng lặp. Một số kế hoạch được thực hiện từ đầu để thiết lập kế hoạch phát hành, và lập kế hoạch bổ sung diễn ra vào đầu mỗi vòng lặp. |
+| English | Vietnamese |
+|---------|------------|
+| ▶ Project deliverables. Often the project deliverables necessitate planning in a specific way. | ▶ Các sản phẩm giao dự án. Thường thì các sản phẩm giao dự án yêu cầu lập kế hoạch theo một cách cụ thể. |
+| Construction projects require significant up-front planning to account for design, approvals, materials purchasing, logistics, and delivery. | Các dự án xây dựng yêu cầu lập kế hoạch kỹ lưỡng từ đầu để tính đến thiết kế, phê duyệt, mua vật liệu, hậu cần và giao hàng. |
+| Product development or high-technology projects may use continuous and adaptive planning to allow for evolution and changes based on stakeholder feedback and technological advances. | Các dự án phát triển sản phẩm hoặc công nghệ cao có thể sử dụng lập kế hoạch liên tục và thích ứng để cho phép phát triển và thay đổi dựa trên phản hồi của các bên liên quan và tiến bộ công nghệ. |
+| ▶ Organizational requirements. Organizational governance, policies, procedures, processes, and culture may require project managers to produce specific planning artifacts. | ▶ Yêu cầu của tổ chức. Quản trị tổ chức, chính sách, thủ tục, quy trình và văn hóa có thể yêu cầu người quản lý dự án tạo ra các tài liệu lập kế hoạch cụ thể. |
+| ▶ Market conditions. Product development projects can take place in a highly competitive environment. In these situations, project teams can undertake a minimum amount of up-front planning as the emphasis is on speed to market. The cost of delay that extensive planning entails exceeds the risk of potential rework. | ▶ Điều kiện thị trường. Các dự án phát triển sản phẩm có thể diễn ra trong môi trường cạnh tranh cao. Trong những tình huống này, nhóm dự án có thể thực hiện tối thiểu lập kế hoạch từ đầu vì trọng tâm là tốc độ ra thị trường. Chi phí của sự trì hoãn do lập kế hoạch quá mức cao hơn rủi ro phải làm lại. |
+| ▶ Legal or regulatory restrictions. Regulatory agencies or statutes may require specific planning documents before granting an authorization to proceed or to secure approval to release the project deliverable into the market. | ▶ Hạn chế pháp lý hoặc quy định. Các cơ quan quản lý hoặc luật định có thể yêu cầu các tài liệu lập kế hoạch cụ thể trước khi cấp phép tiến hành hoặc phê duyệt để phát hành sản phẩm giao dự án ra thị trường. |
+| 2.4.2.1 Delivery | 2.4.2.1 Giao hàng |
+| Planning begins with understanding the business case, stakeholder requirements, and the project and product scope. | Lập kế hoạch bắt đầu bằng việc hiểu rõ lý do kinh doanh, yêu cầu của các bên liên quan và phạm vi dự án cũng như sản phẩm. |
+| Product scope is the features and functions that characterize a product, service, or result. | Phạm vi sản phẩm là các tính năng và chức năng đặc trưng cho một sản phẩm, dịch vụ hoặc kết quả. |
+| Project scope is the work performed to deliver a product, service, or result with the specified features and functions. | Phạm vi dự án là các công việc thực hiện để cung cấp một sản phẩm, dịch vụ hoặc kết quả với các tính năng và chức năng đã xác định. |
+| Predictive planning approaches start with the high-level project deliverables up front and decompose them into more detail. | Các phương pháp lập kế hoạch dự đoán bắt đầu với các sản phẩm giao dự án ở mức tổng thể và phân rã chúng thành chi tiết hơn. |
+| This approach can employ a scope statement and/or a work breakdown structure (WBS) to decompose the scope into lower levels of detail. | Phương pháp này có thể sử dụng tuyên bố phạm vi và/hoặc cấu trúc phân rã công việc (WBS) để phân rã phạm vi thành các mức chi tiết hơn. |
+| Projects that use iterative or incremental approaches can have high-level themes or epics that are decomposed into features, which are then further decomposed into user stories and other backlog items. | Các dự án sử dụng phương pháp lặp hoặc tăng dần có thể có các chủ đề tổng thể hoặc epic được phân rã thành các tính năng, sau đó tiếp tục phân rã thành các user story và các mục backlog khác. |
+| Work that is unique, significant, risky, or novel can be prioritized to reduce the uncertainty associated with project scope at the start of the project before significant investment has taken place. | Các công việc độc đáo, quan trọng, rủi ro hoặc mới lạ có thể được ưu tiên để giảm sự không chắc chắn liên quan đến phạm vi dự án ngay từ đầu trước khi có các khoản đầu tư đáng kể. |
+| Project teams plan routine work based on the concept of last responsible moment. | Nhóm dự án lập kế hoạch công việc thường nhật dựa trên khái niệm “thời điểm chịu trách nhiệm cuối cùng”. |
+| This approach defers a decision to allow the project team to consider multiple options until the cost of further delay would exceed the benefit. | Phương pháp này hoãn quyết định để nhóm dự án có thể xem xét nhiều phương án cho đến khi chi phí của việc trì hoãn thêm vượt quá lợi ích. |
+| It reduces waste by not expending time in developing plans for work that may change or may not be needed. | Nó giảm lãng phí bằng cách không tiêu tốn thời gian lập kế hoạch cho công việc có thể thay đổi hoặc không cần thiết. |
+| English | Vietnamese |
+|---------|------------|
+| 2.4.2.2 Estimating | 2.4.2.2 Ước lượng |
+| Planning entails developing estimates for work effort, duration, costs, people, and physical resources. | Lập kế hoạch bao gồm việc phát triển các ước lượng cho công sức, thời gian, chi phí, nhân sự và tài nguyên vật chất. |
+| Estimates are a quantitative assessment of the likely amount or outcome of a variable, such as project costs, resources, effort, or duration. | Ước lượng là một đánh giá định lượng về lượng hoặc kết quả có khả năng xảy ra của một biến số, chẳng hạn như chi phí dự án, nguồn lực, công sức hoặc thời gian. |
+| As the project evolves, the estimates can change based on current information and circumstances. | Khi dự án phát triển, các ước lượng có thể thay đổi dựa trên thông tin và hoàn cảnh hiện tại. |
+| The project’s phase in the life cycle impacts four aspects associated with estimating: | Giai đoạn của dự án trong vòng đời ảnh hưởng đến bốn khía cạnh liên quan đến việc ước lượng: |
+| ▶ Range. Estimates tend to have a broad range at the start of the project when there is not much information about the project and product scope, stakeholders, requirements, risks, and other information. | ▶ Phạm vi. Các ước lượng có xu hướng có phạm vi rộng vào đầu dự án khi chưa có nhiều thông tin về phạm vi dự án và sản phẩm, các bên liên quan, yêu cầu, rủi ro và các thông tin khác. |
+| Figure 2-14 shows a range of -25 to +75% at the start of exploring a project opportunity. | Hình 2-14 cho thấy phạm vi từ -25% đến +75% vào đầu quá trình khám phá cơ hội dự án. |
+| Projects that are well along in their life cycle may have an estimating range of -5 to +10%. | Các dự án đã đi sâu vào vòng đời có thể có phạm vi ước lượng từ -5% đến +10%. |
+| ▶ Accuracy. Accuracy refers to the correctness of an estimate. | ▶ Độ chính xác. Độ chính xác đề cập đến mức độ đúng đắn của một ước lượng. |
+| Accuracy is linked to range in that the lower the accuracy, the larger the potential range of values. | Độ chính xác liên quan đến phạm vi, nghĩa là độ chính xác thấp hơn sẽ đi kèm với phạm vi giá trị tiềm năng lớn hơn. |
+| An estimate at the start of the project will have less accuracy than one that is developed halfway through the project. | Một ước lượng vào đầu dự án sẽ kém chính xác hơn một ước lượng được phát triển ở giữa dự án. |
+| ▶ Precision. Precision is different from accuracy (see Figure 2-15). | ▶ Độ tinh xác. Độ tinh xác khác với độ chính xác (xem Hình 2-15). |
+| Precision refers to the degree of exactness associated with the estimate. | Độ tinh xác đề cập đến mức độ chính xác liên quan đến ước lượng. |
+| For example, an estimate of 2 days is more precise than “sometime this week.” | Ví dụ, ước lượng 2 ngày chính xác hơn so với “một thời điểm trong tuần này.” |
+| The precision of estimates should be compatible with the desired accuracy. | Độ tinh xác của các ước lượng nên tương thích với độ chính xác mong muốn. |
+| ▶ Confidence. Confidence increases with experience. | ▶ Mức độ tin cậy. Mức độ tin cậy tăng theo kinh nghiệm. |
+| Experience working on a previous, similar project can help with the level of confidence required. | Kinh nghiệm làm việc trên một dự án tương tự trước đây có thể giúp đạt được mức độ tin cậy cần thiết. |
+| For new and evolving technology components, the confidence in estimates is expected to be low. | Đối với các thành phần công nghệ mới và đang phát triển, mức độ tin cậy vào các ước lượng dự kiến sẽ thấp. |
+
+![Figure 2-14](Project/Figure_2-14._Estimate_Range_Decreases_over_Time.png)
+
+![Figure 2-15](Project/Figure_2-15._Low_Accuracy,_High_Precision.png)
+
+| English | Vietnamese |
+|---------|------------|
+| There are different ways of presenting and/or adjusting estimates: | Có nhiều cách khác nhau để trình bày và/hoặc điều chỉnh các ước lượng: |
+| ▶ Deterministic and probabilistic estimating. | ▶ Ước lượng xác định và xác suất. |
+| Deterministic estimates, also known as point estimates, present a single number or amount, such as 36 months. | Các ước lượng xác định, còn được gọi là ước lượng điểm, đưa ra một con số hoặc lượng duy nhất, ví dụ như 36 tháng. |
+| Probabilistic estimates include a range of estimates along with the associated probabilities within the range. | Các ước lượng xác suất bao gồm một phạm vi các ước lượng cùng với xác suất liên quan trong phạm vi đó. |
+| They can be developed manually by (a) developing a weighted average based on multiple likely outcomes, or (b) running a simulation to develop a probability analysis of a particular outcome, usually in terms of cost or schedule. | Chúng có thể được phát triển thủ công bằng cách (a) tính trung bình có trọng số dựa trên nhiều kết quả có khả năng xảy ra, hoặc (b) chạy mô phỏng để phát triển phân tích xác suất của một kết quả cụ thể, thường liên quan đến chi phí hoặc tiến độ. |
+| English | Vietnamese |
+|---------|------------|
+| A probabilistic estimate derived from a computer simulation has three associated factors: | Một ước lượng xác suất được suy ra từ mô phỏng máy tính có ba yếu tố liên quan: |
+| 1. A point estimate with a range such as 36 months +3 months/-1 month. | 1. Một ước lượng điểm kèm phạm vi, ví dụ 36 tháng +3 tháng/-1 tháng. |
+| 2. A statement of confidence such as a 95% confidence level. | 2. Một tuyên bố về độ tin cậy, ví dụ mức độ tin cậy 95%. |
+| 3. A probability distribution describing the dispersion of the data within and around the given range. | 3. Một phân phối xác suất mô tả sự phân tán của dữ liệu trong và xung quanh phạm vi đã cho. |
+| Together these three items form a complete metric describing a probabilistic estimate. | Ba yếu tố này cùng nhau tạo thành một chỉ số đầy đủ mô tả một ước lượng xác suất. |
+| English | Vietnamese |
+|---------|------------|
+| Absolute and relative estimating. Absolute estimates are specific information and use actual numbers. | Ước lượng tuyệt đối và tương đối. Ước lượng tuyệt đối là thông tin cụ thể và sử dụng các con số thực tế. |
+| An absolute estimate for effort might be shown as 120 hours of work. One person working full time could accomplish the work in 15 workdays, assuming 8 hours of productivity per workday. | Một ước lượng tuyệt đối cho công sức có thể được biểu thị là 120 giờ làm việc. Một người làm việc toàn thời gian có thể hoàn thành công việc trong 15 ngày làm việc, giả sử năng suất là 8 giờ mỗi ngày làm việc. |
+| While absolute estimates are specific, relative estimates are shown in comparison to other estimates. | Trong khi ước lượng tuyệt đối là cụ thể, ước lượng tương đối được biểu thị dưới dạng so sánh với các ước lượng khác. |
+| Relative estimates only have meaning within a given context. | Ước lượng tương đối chỉ có ý nghĩa trong một bối cảnh nhất định. |
+| English | Vietnamese |
+|---------|------------|
+| One form of relative estimating is planning poker. | Một hình thức ước lượng tương đối là Planning Poker. |
+| In planning poker, the project team performing the work comes to a consensus on the effort that is necessary to deliver value. | Trong Planning Poker, nhóm dự án thực hiện công việc sẽ đi đến sự đồng thuận về mức công sức cần thiết để tạo ra giá trị. |
+| Using story points to estimate work could result in 64 story points being assigned for that work. | Sử dụng story points để ước lượng công việc có thể dẫn đến việc gán 64 story points cho công việc đó. |
+| New work is estimated using the amount of estimated work compared to points assigned to previous work. | Công việc mới được ước lượng dựa trên lượng công việc ước tính so với số điểm đã được gán cho các công việc trước đó. |
+| Therefore, new work effort is compared to previously known work effort. | Do đó, công sức cho công việc mới được so sánh với công sức đã biết trước đó. |
+| English | Vietnamese |
+|---------|------------|
+| Flow-based estimating. Flow-based estimates are developed by determining the cycle time and throughput. | Ước lượng dựa trên luồng. Ước lượng dựa trên luồng được phát triển bằng cách xác định thời gian chu kỳ và thông lượng. |
+| Cycle time is the total elapsed time it takes one unit to get through a process. | Thời gian chu kỳ là tổng thời gian trôi qua mà một đơn vị cần để hoàn thành một quy trình. |
+| Throughput is the number of items that can complete a process in a given amount of time. | Thông lượng là số lượng mục có thể hoàn thành quy trình trong một khoảng thời gian nhất định. |
+| These two numbers can provide an estimate to complete a specified quantity of work. | Hai số này có thể cung cấp ước lượng để hoàn thành một khối lượng công việc xác định. |
+| Adjusting estimates for uncertainty. Estimates are inherently uncertain. | Điều chỉnh ước lượng cho sự không chắc chắn. Các ước lượng vốn dĩ là không chắc chắn. |
+| Uncertainty by definition is associated with risk. | Theo định nghĩa, sự không chắc chắn liên quan đến rủi ro. |
+| Key deliverable dates or budget estimates may be adjusted, or contingency time or funds may be added, based on the outcomes of a simulation conducted to establish the range of uncertainty for these parameters. | Ngày hoàn thành các sản phẩm chính hoặc ước lượng ngân sách có thể được điều chỉnh, hoặc thời gian/dự phòng tài chính có thể được thêm vào, dựa trên kết quả của một mô phỏng được thực hiện để xác định phạm vi không chắc chắn cho các tham số này. |
+| English | Vietnamese |
+|---------|------------|
+| A schedule is a model for executing the project’s activities, including durations, dependencies, and other planning information. | Lịch trình là một mô hình để thực hiện các hoạt động của dự án, bao gồm thời lượng, mối quan hệ phụ thuộc và các thông tin lập kế hoạch khác. |
+| Schedule planning can use predictive or adaptive approaches. | Lập kế hoạch lịch trình có thể sử dụng các phương pháp dự đoán hoặc thích ứng. |
+| Predictive approaches follow a stepwise process as follows: | Các phương pháp dự đoán tuân theo quy trình theo từng bước như sau: |
+| Step 1. Decompose the project scope into specific activities. | Bước 1. Phân tách phạm vi dự án thành các hoạt động cụ thể. |
+| Step 2. Sequence related activities. | Bước 2. Xác định thứ tự các hoạt động liên quan. |
+| Step 3. Estimate the effort, duration, people, and physical resources required to complete the activities. | Bước 3. Ước lượng công sức, thời lượng, nhân sự và nguồn lực vật chất cần thiết để hoàn thành các hoạt động. |
+| Step 4. Allocate people and resources to the activities based on availability. | Bước 4. Phân bổ nhân sự và nguồn lực cho các hoạt động dựa trên khả năng sẵn có. |
+| Step 5. Adjust the sequence, estimates, and resources until an agreed-upon schedule is achieved. | Bước 5. Điều chỉnh thứ tự, ước lượng và nguồn lực cho đến khi đạt được lịch trình đã thống nhất. |
+| English | Vietnamese |
+|---------|------------|
+| If the schedule model does not meet the initial desired end date, schedule compression methods are applied. | Nếu mô hình lịch trình không đạt được ngày kết thúc mong muốn ban đầu, các phương pháp nén lịch trình sẽ được áp dụng. |
+| Crashing is a schedule compression method that seeks to shorten the duration for the least incremental cost. | Crashing là một phương pháp nén lịch trình nhằm rút ngắn thời gian thực hiện với chi phí tăng thêm tối thiểu. |
+| Crashing can include adding people to activities, working overtime, or paying to expedite deliveries. | Crashing có thể bao gồm việc bổ sung nhân sự cho các hoạt động, làm việc tăng ca hoặc trả phí để đẩy nhanh tiến độ giao hàng. |
+| Fast tracking is a schedule compression method in which activities or tasks that are normally done in sequence are performed in parallel, at least for a portion of their duration. | Fast tracking là một phương pháp nén lịch trình trong đó các hoạt động hoặc nhiệm vụ thường thực hiện theo trình tự được thực hiện song song, ít nhất là trong một phần thời gian của chúng. |
+| Fast tracking often entails applying leads and lags along a network path. | Fast tracking thường bao gồm việc áp dụng lead và lag trên một đường mạng (network path). |
+| A lead is where the work of a successor activity is accelerated, such as starting a successor activity before the predecessor has finished. | Lead là khi công việc của một hoạt động kế tiếp được đẩy nhanh, chẳng hạn như bắt đầu hoạt động kế tiếp trước khi hoạt động trước đó hoàn thành. |
+| A lag is a delay of a successor activity. | Lag là sự trì hoãn của một hoạt động kế tiếp. |
+| An example of using a lag would be changing the type of relationship between activities, and then applying a lag. | Một ví dụ về việc sử dụng lag là thay đổi loại mối quan hệ giữa các hoạt động, sau đó áp dụng lag. |
+| For example, rather than waiting for an activity to finish before the next one starts (a finish-to-start relationship), change the relationship to have the end of the successor activity finish a determined amount of time after the end of the predecessor (a finish-to-finish relationship). | Ví dụ, thay vì chờ một hoạt động kết thúc trước khi hoạt động tiếp theo bắt đầu (mối quan hệ finish-to-start), thay đổi mối quan hệ để hoạt động kế tiếp kết thúc sau một khoảng thời gian nhất định kể từ khi hoạt động trước đó kết thúc (mối quan hệ finish-to-finish). |
+| The network logic would show a lag between the finish of the predecessor and the finish of the successor activities. | Logic mạng sẽ hiển thị một khoảng trì hoãn (lag) giữa kết thúc của hoạt động trước và kết thúc của hoạt động kế tiếp. |
+| A lag can also be applied between the start of one activity and the start of another activity (a start-to-start relationship). | Lag cũng có thể được áp dụng giữa việc bắt đầu của một hoạt động và bắt đầu của một hoạt động khác (mối quan hệ start-to-start). |
+
+![Figure 2-16](Project/Figure_2-16._Fast_Tracking_Examples.png)
+
+| English | Vietnamese |
+|---------|------------|
+| When compressing the schedule, it is important to determine the nature of the dependencies between activities. | Khi nén lịch trình, điều quan trọng là xác định bản chất của các mối phụ thuộc giữa các hoạt động. |
+| Some activities cannot be fast tracked due to the nature of the work—others can. | Một số hoạt động không thể thực hiện song song do bản chất công việc — những hoạt động khác có thể. |
+| The four types of dependencies are: | Có bốn loại phụ thuộc: |
+| Mandatory dependency. A relationship that is contractually required or inherent in the nature of the work. This type of dependency usually cannot be modified. | Phụ thuộc bắt buộc (Mandatory dependency). Là mối quan hệ được yêu cầu theo hợp đồng hoặc vốn có trong bản chất công việc. Loại phụ thuộc này thường không thể thay đổi. |
+| Discretionary dependency. A relationship that is based on best practices or project preferences. This type of dependency may be modifiable. | Phụ thuộc tùy ý (Discretionary dependency). Là mối quan hệ dựa trên các thực tiễn tốt nhất hoặc sở thích của dự án. Loại phụ thuộc này có thể được điều chỉnh. |
+| External dependency. A relationship between project activities and non-project activities. This type of dependency usually cannot be modified. | Phụ thuộc bên ngoài (External dependency). Là mối quan hệ giữa các hoạt động dự án và các hoạt động không thuộc dự án. Loại phụ thuộc này thường không thể thay đổi. |
+| Internal dependency. A relationship between one or more project activities. This type of dependency may be modifiable. | Phụ thuộc nội bộ (Internal dependency). Là mối quan hệ giữa một hoặc nhiều hoạt động dự án. Loại phụ thuộc này có thể được điều chỉnh. |
+
+| English | Vietnamese |
+|---------|------------|
+| Adaptive schedule planning uses incremental planning. | Lập kế hoạch lịch trình thích ứng sử dụng phương pháp lập kế hoạch gia tăng. |
+| One such scheduling approach is based on iterations and releases (see Figure 2-17). | Một phương pháp lập lịch như vậy dựa trên các vòng lặp (iteration) và các lần phát hành (release) (xem Hình 2-17). |
+| A high-level release plan is developed that indicates the basic features and functionality to be included in each release. | Một kế hoạch phát hành tổng thể được xây dựng, chỉ ra các tính năng và chức năng cơ bản sẽ được bao gồm trong mỗi lần phát hành. |
+| Within each release, there will be two or more iterations. | Trong mỗi lần phát hành, sẽ có hai vòng lặp hoặc nhiều hơn. |
+| Each iteration adds business and/or stakeholder value. | Mỗi vòng lặp sẽ tăng giá trị kinh doanh và/hoặc giá trị cho các bên liên quan. |
+| Value may include features, risk reduction, experimentation, or other ways of delivering or protecting value. | Giá trị có thể bao gồm các tính năng, giảm rủi ro, thử nghiệm, hoặc các cách khác để cung cấp hoặc bảo vệ giá trị. |
+| The planning for the work in future releases is kept at a high level so the project team does not engage in planning that could change based on feedback from earlier releases. | Việc lập kế hoạch cho công việc trong các lần phát hành tương lai được giữ ở mức tổng thể để nhóm dự án không thực hiện lập kế hoạch có thể thay đổi dựa trên phản hồi từ các lần phát hành trước đó. |
+
+![Figure 2-17](Project/Figure_2-17._Release_and_Iteration_Plan.png)
+
+| English | Vietnamese |
+|---------|------------|
+| Adaptive approaches often use timeboxes. | Các phương pháp thích ứng thường sử dụng timebox. |
+| The work in each timebox is based on a prioritized backlog. | Công việc trong mỗi timebox dựa trên backlog được ưu tiên. |
+| The project team determines the amount of work they can do in each timebox, estimates the work, and self-manages to accomplish the work. | Nhóm dự án xác định khối lượng công việc họ có thể thực hiện trong mỗi timebox, ước lượng công việc và tự quản lý để hoàn thành công việc. |
+| At the end of the timebox, the project team demonstrates the work completed. | Vào cuối timebox, nhóm dự án trình bày công việc đã hoàn thành. |
+| At that point, the backlog and estimates of work available to be done may be updated or reprioritized for the next timebox. | Tại thời điểm đó, backlog và các ước lượng công việc còn lại có thể được cập nhật hoặc ưu tiên lại cho timebox tiếp theo. |
+| Determining the schedule involves using the information in the estimating section to determine overall duration and effort estimates. | Xác định lịch trình bao gồm việc sử dụng thông tin trong phần ước lượng để xác định tổng thời gian và khối lượng công việc dự kiến. |
+| Regardless of the scheduling approach used, the relationship between effort and duration needs to be addressed. | Bất kể phương pháp lập lịch được sử dụng, mối quan hệ giữa khối lượng công việc và thời gian cần được xem xét. |
+| Some activities are effort driven, which means that the duration can be reduced by adding people. | Một số hoạt động phụ thuộc vào khối lượng công việc, nghĩa là thời gian có thể giảm bằng cách tăng thêm người. |
+| This approach can work up to a point, after which adding people might actually extend duration. | Cách tiếp cận này chỉ hiệu quả đến một mức độ, sau đó việc thêm người có thể kéo dài thời gian. |
+| Framing a building is effort driven. If more people are added, the duration can be reduced. | Việc dựng khung một tòa nhà phụ thuộc vào khối lượng công việc. Nếu thêm người, thời gian có thể giảm. |
+| Some activities are fixed duration, such as running a test or conducting employee training. | Một số hoạt động có thời gian cố định, như thực hiện kiểm tra hoặc đào tạo nhân viên. |
+| The nature of the work determines if and how much the duration can be reduced by adding people before increasing the time due to coordination, communication, conflict, and potential rework. | Bản chất công việc xác định xem và mức độ nào thời gian có thể giảm khi thêm người trước khi thời gian tăng lên do phối hợp, giao tiếp, xung đột và khả năng làm lại. |
+| There is no fixed formula to determine the reduction in duration due to the addition of people. | Không có công thức cố định để xác định sự giảm thời gian do việc thêm người. |
+| 2.4.2.4 Budget | 2.4.2.4 Ngân sách |
+| The project budget evolves from the agreed estimates for the project. | Ngân sách dự án phát triển dựa trên các ước lượng đã thỏa thuận cho dự án. |
+| The information in Section 2.4.2.2 on Estimating is applied to project costs to develop cost estimates. | Thông tin trong Mục 2.4.2.2 về Ước lượng được áp dụng cho chi phí dự án để phát triển ước lượng chi phí. |
+| Cost estimates are then aggregated to develop the cost baseline. | Các ước lượng chi phí sau đó được tổng hợp để phát triển cơ sở chi phí. |
+| The cost baseline is often allocated across the project schedule to reflect when the costs will be incurred. | Cơ sở chi phí thường được phân bổ theo lịch trình dự án để phản ánh thời điểm chi phí sẽ phát sinh. |
+| This practice allows project managers to balance the funds approved in a specific budget period with the scheduled work. | Thực tiễn này cho phép quản lý dự án cân đối quỹ được phê duyệt trong một giai đoạn ngân sách cụ thể với công việc theo lịch. |
+| If there are funding limitations for a budget period, the work may need to be rescheduled to meet those limitations. | Nếu có giới hạn về nguồn vốn trong một giai đoạn ngân sách, công việc có thể cần được lập lại lịch để phù hợp với giới hạn đó. |
+| The project budget should include contingency reserve funds to allow for uncertainty. | Ngân sách dự án nên bao gồm quỹ dự phòng để ứng phó với sự không chắc chắn. |
+| Contingency reserves are set aside to implement a risk response or to respond to risk events should they occur. | Quỹ dự phòng được giữ lại để thực hiện phản ứng rủi ro hoặc ứng phó với các sự kiện rủi ro nếu chúng xảy ra. |
+| Management reserves are set aside for unexpected activities related to in-scope work. | Quỹ quản lý được giữ lại cho các hoạt động bất ngờ liên quan đến công việc trong phạm vi dự án. |
+| Depending on the organization’s policies and organizational structure, management reserves may be managed by the project, the sponsor, product owner, or the PMO at the program and portfolio level. | Tùy thuộc vào chính sách và cơ cấu tổ chức của tổ chức, quỹ quản lý có thể do dự án, nhà tài trợ, chủ sản phẩm hoặc PMO ở cấp chương trình và danh mục quản lý. |
+| Figure 2-18 shows the budget build up. | Hình 2-18 minh họa cách xây dựng ngân sách. |
+
+![Figure 2-18](Project/Figure_2-18._Budget_Build_Up.png)
+
+| English | Vietnamese |
+|---------|------------|
+| 2.4.3 Project Team Composition and Structure | 2.4.3 Cấu trúc và thành phần nhóm dự án |
+| Planning for project team composition begins with identifying the skill sets required to accomplish the project work. | Lập kế hoạch cho thành phần nhóm dự án bắt đầu bằng việc xác định các bộ kỹ năng cần thiết để thực hiện công việc dự án. |
+| This entails evaluating not only the skills, but also the level of proficiency and years of experience in similar projects. | Điều này bao gồm việc đánh giá không chỉ các kỹ năng mà còn cả mức độ thành thạo và số năm kinh nghiệm trong các dự án tương tự. |
+| There are different cost structures associated with using internal project team members versus securing them from outside the organization. | Có các cấu trúc chi phí khác nhau liên quan đến việc sử dụng thành viên nhóm dự án nội bộ so với việc thuê họ từ bên ngoài tổ chức. |
+| The benefit that outside skills bring to the project are weighed against the costs that will be incurred. | Lợi ích mà kỹ năng bên ngoài mang lại cho dự án được cân nhắc so với các chi phí sẽ phát sinh. |
+| English | Vietnamese |
+|---------|------------|
+| When planning for the project team, the project manager considers the ability and necessity for the project team to work in the same location. | Khi lập kế hoạch cho nhóm dự án, quản lý dự án xem xét khả năng và nhu cầu để nhóm dự án làm việc tại cùng một địa điểm. |
+| Small project teams that can work in the same room are able to take advantage of osmotic communication and can solve problems as they arise. | Các nhóm dự án nhỏ có thể làm việc cùng một phòng sẽ tận dụng được giao tiếp thẩm thấu (osmotic communication) và có thể giải quyết vấn đề khi chúng phát sinh. |
+| Some project teams are physically dispersed. Project team members may be in different cities, time zones, or countries. | Một số nhóm dự án phân tán về mặt địa lý. Thành viên nhóm dự án có thể ở các thành phố, múi giờ hoặc quốc gia khác nhau. |
+| On projects where project team members work virtually, more time is spent connecting people through technology. | Trên các dự án mà các thành viên làm việc từ xa, nhiều thời gian được dành để kết nối mọi người thông qua công nghệ. |
+| 2.4.4 Communication | 2.4.4 Giao tiếp |
+| Communication planning overlaps with stakeholder identification, analysis, prioritization, and engagement as described in the Stakeholder Performance Domain (Section 2.1). | Lập kế hoạch giao tiếp có sự chồng lấn với việc xác định, phân tích, ưu tiên và tương tác với các bên liên quan như được mô tả trong Lĩnh vực Hiệu suất Stakeholder (Phần 2.1). |
+| Communication is the most important factor in engaging with stakeholders effectively. | Giao tiếp là yếu tố quan trọng nhất để tương tác hiệu quả với các bên liên quan. |
+| Planning communication for the project entails considering the following: | Lập kế hoạch giao tiếp cho dự án bao gồm việc xem xét các yếu tố sau: |
+| ▶ Who needs information? | ▶ Ai cần thông tin? |
+| ▶ What information does each stakeholder need? | ▶ Mỗi bên liên quan cần thông tin gì? |
+| ▶ Why should information be shared with stakeholders? | ▶ Tại sao thông tin cần được chia sẻ với các bên liên quan? |
+| ▶ What is the best way to provide information? | ▶ Cách tốt nhất để cung cấp thông tin là gì? |
+| ▶ When and how often is information needed? | ▶ Khi nào và tần suất thông tin cần được cung cấp? |
+| ▶ Who has the information needed? | ▶ Ai có thông tin cần thiết? |
+| There may be different categories of information, such as internal and external, sensitive and public, or general and detailed. | Có thể có các loại thông tin khác nhau, chẳng hạn như nội bộ và bên ngoài, nhạy cảm và công khai, hoặc tổng quát và chi tiết. |
+| Analyzing the stakeholders, information needs, and categories of information provides the foundation for establishing the communications processes and plans for the project. | Phân tích các bên liên quan, nhu cầu thông tin và các loại thông tin cung cấp nền tảng để thiết lập các quy trình và kế hoạch giao tiếp cho dự án. |
+| English | Vietnamese |
+|---------|------------|
+| 2.4.5 Physical Resources | 2.4.5 Tài nguyên vật lý |
+| Physical resources apply to any resource that is not a person. | Tài nguyên vật lý áp dụng cho bất kỳ nguồn lực nào không phải là con người. |
+| It can include materials, equipment, software, testing environments, licenses, and so forth. | Chúng có thể bao gồm vật liệu, thiết bị, phần mềm, môi trường thử nghiệm, giấy phép, v.v. |
+| Planning for physical resources entails estimating, as described in Section 2.4.2.2, as well as supply chain, logistics, and management. | Lập kế hoạch cho tài nguyên vật lý bao gồm việc ước tính, như được mô tả trong Phần 2.4.2.2, cũng như quản lý chuỗi cung ứng, logistics và quản lý. |
+| Projects with significant physical resources, such as engineering and construction projects, will need to plan for procurement activities to acquire the resources. | Các dự án có tài nguyên vật lý đáng kể, chẳng hạn như dự án kỹ thuật và xây dựng, sẽ cần lập kế hoạch cho các hoạt động mua sắm để có được các tài nguyên này. |
+| This may be as simple as utilizing a basic ordering agreement or as complicated as managing, coordinating, and integrating several large procurement activities. | Điều này có thể đơn giản như sử dụng một thỏa thuận đặt hàng cơ bản hoặc phức tạp như quản lý, phối hợp và tích hợp nhiều hoạt động mua sắm lớn. |
+| Planning for physical resources includes taking into account lead time for delivery, movement, storage, and disposition of materials, as well as a means to track material inventory from arrival on site to delivery of an integrated product. | Lập kế hoạch cho tài nguyên vật lý bao gồm việc tính đến thời gian chờ giao hàng, vận chuyển, lưu trữ và xử lý vật liệu, cũng như phương pháp theo dõi tồn kho vật liệu từ khi đến site đến khi giao sản phẩm tích hợp. |
+| Project teams whose projects require significant physical materials think and plan strategically about the timing from order, to delivery, to usage. | Các nhóm dự án mà dự án yêu cầu nhiều vật liệu vật lý sẽ suy nghĩ và lập kế hoạch chiến lược về thời gian từ đặt hàng, giao hàng đến sử dụng. |
+| This can include evaluation of bulk ordering versus cost of storage, global logistics, sustainability, and integrating management of physical assets with the rest of the project. | Điều này có thể bao gồm việc đánh giá đặt hàng số lượng lớn so với chi phí lưu trữ, logistics toàn cầu, tính bền vững, và tích hợp quản lý tài sản vật lý với phần còn lại của dự án. |
+| 2.4.6 Procurement | 2.4.6 Mua sắm |
+| Procurements can happen at any time during a project. | Hoạt động mua sắm có thể xảy ra bất cứ lúc nào trong dự án. |
+| However, up-front planning helps to set expectations that ensure the procurement process is performed smoothly. | Tuy nhiên, lập kế hoạch trước giúp thiết lập kỳ vọng để đảm bảo quá trình mua sắm được thực hiện suôn sẻ. |
+| Once the high-level scope is known, project teams conduct a make-or-buy analysis. | Khi phạm vi ở mức cao đã được biết, nhóm dự án tiến hành phân tích tự làm hay mua ngoài. |
+| This includes identifying those deliverables and services that will be developed in-house, and those that will be purchased from external sources. | Điều này bao gồm xác định những sản phẩm và dịch vụ sẽ được phát triển nội bộ và những sản phẩm, dịch vụ sẽ được mua từ bên ngoài. |
+| This information impacts the project team and the schedule. | Thông tin này ảnh hưởng đến nhóm dự án và tiến độ dự án. |
+| Contracting professionals need advance information on the type of goods needed, when they will be needed, and any technical specifications required for the procured goods or services. | Các chuyên gia hợp đồng cần thông tin trước về loại hàng hóa cần thiết, khi nào cần, và bất kỳ thông số kỹ thuật nào yêu cầu cho hàng hóa hoặc dịch vụ được mua sắm. |
+| English | Vietnamese |
+|---------|------------|
+| 2.4.7 Changes | 2.4.7 Thay đổi |
+| There will be changes throughout the project. | Sẽ có những thay đổi diễn ra trong suốt dự án. |
+| Some changes are a result of a risk event occurring or a project environment change, some are based on developing a deeper understanding of requirements, and others are due to customer requests or other reasons. | Một số thay đổi là kết quả của một sự kiện rủi ro xảy ra hoặc sự thay đổi môi trường dự án, một số dựa trên việc hiểu sâu hơn về các yêu cầu, và những thay đổi khác xuất phát từ yêu cầu của khách hàng hoặc các lý do khác. |
+| Therefore, project teams should prepare a process for adapting plans throughout the project. | Do đó, nhóm dự án nên chuẩn bị một quy trình để điều chỉnh kế hoạch trong suốt dự án. |
+| This may take the form of a change control process, reprioritizing the backlog, or rebaselining the project. | Điều này có thể ở dạng quy trình kiểm soát thay đổi, sắp xếp lại thứ tự ưu tiên của backlog, hoặc thiết lập lại cơ sở dự án. |
+| Projects that have a contractual element may need to follow a defined process for contract changes. | Các dự án có yếu tố hợp đồng có thể cần tuân theo một quy trình được xác định cho các thay đổi hợp đồng. |
+| 2.4.8 Metrics | 2.4.8 Chỉ số |
+| There is a natural linkage between planning, delivering, and measuring work. | Có một mối liên kết tự nhiên giữa lập kế hoạch, thực hiện và đo lường công việc. |
+| That linkage is metrics. | Mối liên kết đó chính là các chỉ số. |
+| Establishing metrics includes setting the thresholds that indicate whether work performance is as expected, trending positively or negatively away from expected performance, or unacceptable. | Việc thiết lập các chỉ số bao gồm xác định các ngưỡng để chỉ ra liệu hiệu suất công việc có như kỳ vọng, có xu hướng tốt hoặc xấu so với hiệu suất dự kiến, hay không chấp nhận được. |
+| Deciding what to measure and how often is best informed by the phrase “only measure what matters.” | Việc quyết định đo lường gì và bao lâu nên được hướng dẫn bởi câu nói “chỉ đo lường những gì quan trọng.” |
+| Metrics associated with the product are specific to the deliverables being developed. | Các chỉ số liên quan đến sản phẩm cụ thể với các sản phẩm/dịch vụ đang được phát triển. |
+| Metrics associated with schedule and budget performance are often driven by organizational standards and are related to a baseline or an approved version of the schedule or budget against which actual results are compared. | Các chỉ số liên quan đến tiến độ và ngân sách thường được xác định bởi tiêu chuẩn tổ chức và liên quan đến cơ sở hoặc phiên bản đã được phê duyệt của tiến độ hoặc ngân sách để so sánh với kết quả thực tế. |
+| As part of planning, the metrics, baselines, and thresholds for performance are established, as well as any test and evaluation processes and procedures that will be used to measure performance to the specification of the project deliverable. | Trong quá trình lập kế hoạch, các chỉ số, cơ sở và ngưỡng hiệu suất được thiết lập, cũng như bất kỳ quy trình và thủ tục kiểm tra, đánh giá nào sẽ được sử dụng để đo lường hiệu suất theo yêu cầu kỹ thuật của sản phẩm dự án. |
+| The metrics, baselines, and tests are used as the basis to evaluate variance of actual performance as part of the Measurement Performance Domain. | Các chỉ số, cơ sở và bài kiểm tra được sử dụng làm cơ sở để đánh giá sự sai lệch của hiệu suất thực tế như một phần của Miền Hiệu suất Đo lường. |
+| English | Vietnamese |
+|---------|------------|
+| 2.4.9 Alignment | 2.4.9 Sự căn chỉnh |
+| Planning activities and artifacts need to remain integrated throughout the project. | Các hoạt động và sản phẩm lập kế hoạch cần được tích hợp liên tục trong suốt dự án. |
+| This means that planning for the performance in terms of scope and quality requirements aligns with delivery commitments, allocated funds, type and availability of resources, the uncertainty inherent in the project, and stakeholder needs. | Điều này có nghĩa là việc lập kế hoạch hiệu suất về phạm vi và yêu cầu chất lượng cần phù hợp với cam kết giao hàng, nguồn vốn phân bổ, loại và khả năng sẵn có của các nguồn lực, sự không chắc chắn vốn có trong dự án, và nhu cầu của các bên liên quan. |
+| Project teams can require additional planning artifacts depending on the type of project. | Nhóm dự án có thể cần thêm các sản phẩm lập kế hoạch tùy thuộc vào loại dự án. |
+| For example, logistics plans will need to integrate with material and delivery needs, testing plans will need to align with quality and delivery needs, and so forth. | Ví dụ, kế hoạch hậu cần cần tích hợp với nhu cầu vật liệu và giao hàng, kế hoạch kiểm tra cần phù hợp với yêu cầu chất lượng và giao hàng, v.v. |
+| Work on one project often occurs in parallel with other projects in a program or a release. | Công việc của một dự án thường diễn ra song song với các dự án khác trong một chương trình hoặc một đợt phát hành. |
+| The timing of the work of a single project should align with the needs of the work on related projects and the operations work of the organization. | Thời điểm thực hiện công việc của một dự án đơn lẻ cần phù hợp với nhu cầu công việc của các dự án liên quan và công việc vận hành của tổ chức. |
+| Large projects may combine the planning artifacts into an integrated project management plan. | Các dự án lớn có thể kết hợp các sản phẩm lập kế hoạch thành một kế hoạch quản lý dự án tích hợp. |
+| For smaller projects, a detailed project management plan will be inefficient. | Đối với các dự án nhỏ, một kế hoạch quản lý dự án chi tiết sẽ không hiệu quả. |
+| Regardless of the timing, frequency, and degree of planning, the various aspects of the project need to remain aligned and integrated. | Bất kể thời điểm, tần suất và mức độ lập kế hoạch, các khía cạnh khác nhau của dự án cần được duy trì sự căn chỉnh và tích hợp. |
+| 2.4.10 Interactions with Other Performance Domains | 2.4.10 Tương tác với các Miền Hiệu suất khác |
+| Planning occurs throughout the project and integrates with each performance domain. | Lập kế hoạch diễn ra trong suốt dự án và tích hợp với từng miền hiệu suất. |
+| At the start of the project, the expected outcomes are identified and high-level plans to achieve them are developed. | Vào đầu dự án, các kết quả dự kiến được xác định và các kế hoạch tổng thể để đạt được chúng được phát triển. |
+| Depending on the selected development approach and life cycle, intensive planning may be conducted up front, and then plans may be adjusted to reflect the actual environment. | Tùy thuộc vào phương pháp phát triển và vòng đời được chọn, lập kế hoạch chi tiết có thể được thực hiện từ đầu, sau đó các kế hoạch được điều chỉnh để phản ánh môi trường thực tế. |
+| Other life cycles encourage just enough planning at various points throughout the project with the expectation that plans will evolve. | Các vòng đời khác khuyến khích lập kế hoạch vừa đủ tại nhiều thời điểm trong dự án với kỳ vọng rằng các kế hoạch sẽ phát triển theo thời gian. |
+| Throughout the project, planning guides the project work, delivery of outcomes, and business value. | Trong suốt dự án, lập kế hoạch hướng dẫn công việc dự án, việc giao kết quả, và giá trị kinh doanh. |
+| Project teams and stakeholders establish measures of progress and success, and performance is compared to plans. | Nhóm dự án và các bên liên quan thiết lập các chỉ số tiến độ và thành công, và hiệu suất được so sánh với các kế hoạch. |
+| Uncertainty and planning interact as project teams plan for how to address uncertainty and risks. | Sự không chắc chắn và lập kế hoạch tương tác khi các nhóm dự án lên kế hoạch cách giải quyết sự không chắc chắn và rủi ro. |
+| Plans may need to be revised or new plans developed to account for events or conditions that emerge. | Các kế hoạch có thể cần được sửa đổi hoặc phát triển kế hoạch mới để đối phó với các sự kiện hoặc điều kiện phát sinh. |
+| The project team members, environment, and project details influence plans for working effectively with the project team and engaging proactively with stakeholders. | Các thành viên nhóm dự án, môi trường và chi tiết dự án ảnh hưởng đến kế hoạch làm việc hiệu quả với nhóm dự án và tham gia chủ động với các bên liên quan. |
+| English | Vietnamese |
+|---------|------------|
+| 2.4.11 Checking Results | 2.4.11 Kiểm tra kết quả |
+| Table 2-6 identifies the outcomes on the left and ways of checking them on the right. | Bảng 2-6 xác định các kết quả ở cột bên trái và cách kiểm tra chúng ở cột bên phải. |
+![Table 2-6](Project/Table_2-6._Checking_Outcomes-Planning_Performance_Domain.png)
+
+| English | Vietnamese |
+|---------|------------|
+| 2.5 Project Work Performance Domain | 2.5 Lĩnh vực Hiệu suất Công việc Dự án |
+
+![Figure 2-19](Project/Figure_2-19._Project_Work_Performance_Domain.png)
+
+| English | Vietnamese |
+|---------|------------|
+| Project work is associated with establishing the processes and performing the work to enable the project team to deliver the expected deliverables and outcomes. | Công việc dự án liên quan đến việc thiết lập các quy trình và thực hiện công việc để cho phép nhóm dự án cung cấp các kết quả và sản phẩm dự kiến. |
+| English | Vietnamese |
+|---------|------------|
+| Bid Documents | Tài liệu đấu thầu |
+| All documents used to solicit information, quotations, or proposals from prospective sellers. | Tất cả các tài liệu được sử dụng để thu thập thông tin, báo giá hoặc đề xuất từ các nhà cung cấp tiềm năng. |
+| Bidder Conference | Hội nghị nhà thầu |
+| The meetings with prospective sellers prior to the preparation of a bid or proposal to ensure all prospective vendors have a clear and common understanding of the procurement. Also known as contractor conferences, vendor conferences, or pre-bid conferences. | Các cuộc họp với các nhà cung cấp tiềm năng trước khi chuẩn bị hồ sơ dự thầu hoặc đề xuất nhằm đảm bảo tất cả các nhà cung cấp đều có hiểu biết rõ ràng và thống nhất về việc mua sắm. Còn được gọi là hội nghị nhà thầu, hội nghị nhà cung cấp, hoặc hội nghị trước đấu thầu. |
+| Explicit Knowledge | Kiến thức rõ ràng |
+| Knowledge that can be codified using symbols such as words, numbers, and pictures. | Kiến thức có thể được mã hóa bằng các ký hiệu như từ ngữ, số liệu, và hình ảnh. |
+| Tacit Knowledge | Kiến thức ngầm hiểu |
+| Personal knowledge that can be difficult to articulate and share such as beliefs, experience, and insights. | Kiến thức cá nhân khó diễn đạt và chia sẻ, chẳng hạn như niềm tin, kinh nghiệm, và những hiểu biết sâu sắc. |
+| English | Vietnamese |
+|---------|------------|
+| Project work keeps the project team focused and project activities running smoothly. | Công việc dự án giữ cho đội dự án tập trung và các hoạt động dự án diễn ra suôn sẻ. |
+| Managing the flow of existing work, new work, and changes to work | Quản lý luồng công việc hiện tại, công việc mới và các thay đổi đối với công việc |
+| Keeping the project team focused | Giữ cho đội dự án tập trung |
+| Establishing efficient project systems and processes | Thiết lập các hệ thống và quy trình dự án hiệu quả |
+| Communicating with stakeholders | Giao tiếp với các bên liên quan |
+| Managing material, equipment, supplies, and logistics | Quản lý vật liệu, thiết bị, nguồn cung, và logistics |
+| Working with contracting professionals and vendors to plan and manage procurements and contracts | Làm việc với các chuyên gia hợp đồng và nhà cung cấp để lập kế hoạch và quản lý việc mua sắm và hợp đồng |
+| Monitoring changes that can affect the project | Giám sát các thay đổi có thể ảnh hưởng đến dự án |
+| Enabling project learning and knowledge transfer | Thúc đẩy học hỏi dự án và chuyển giao kiến thức |
+| English | Vietnamese |
+|---------|------------|
+| The project manager and the project team establish and periodically review the processes the project team is using to conduct the work. | Quản lý dự án và đội dự án thiết lập và định kỳ xem xét các quy trình mà đội dự án đang sử dụng để thực hiện công việc. |
+| This can take the form of reviewing task boards to determine if there are bottlenecks in the process, if work is flowing at the expected rate, and if there are any impediments that are blocking progress. | Việc này có thể thực hiện bằng cách xem xét bảng công việc để xác định xem có tắc nghẽn nào trong quy trình, công việc có diễn ra theo tốc độ dự kiến không, và có bất kỳ trở ngại nào đang cản trở tiến độ không. |
+| Process tailoring can be used to optimize the process for the needs of the project. | Tùy chỉnh quy trình có thể được sử dụng để tối ưu hóa quy trình theo nhu cầu của dự án. |
+| In general, large projects have more process compared to small projects, and critical projects have more process than less significant projects. | Nói chung, các dự án lớn có nhiều quy trình hơn so với các dự án nhỏ, và các dự án quan trọng có nhiều quy trình hơn so với các dự án ít quan trọng. |
+| Tailoring takes into consideration the demands of the environment. | Việc tùy chỉnh xem xét đến yêu cầu của môi trường. |
+| Ways of optimizing the processes for the environment include: | Các cách tối ưu hóa quy trình phù hợp với môi trường bao gồm: |
+| Lean production methods. Lean production uses techniques such as value stream mapping to measure the ratio of value-adding activities and non-value-adding activities. | Phương pháp sản xuất tinh gọn. Sản xuất tinh gọn sử dụng các kỹ thuật như lập bản đồ dòng giá trị để đo tỷ lệ giữa các hoạt động tạo giá trị và không tạo giá trị. |
+| The metrics calculated form a basis and measurement system for identifying and removing waste from production systems. | Các chỉ số được tính toán tạo thành cơ sở và hệ thống đo lường để xác định và loại bỏ lãng phí khỏi hệ thống sản xuất. |
+| Retrospectives or lessons learned. These meetings provide an opportunity for the project team to review the way in which it works and to suggest changes to improve process and efficiency. | Họp tổng kết hoặc rút kinh nghiệm. Các cuộc họp này tạo cơ hội cho đội dự án xem xét cách thức làm việc và đề xuất các thay đổi nhằm cải thiện quy trình và hiệu quả. |
+| Where is the next best funding spent? Asking this question can help project teams determine if they should continue with the current task or move onto the next activity to optimize value delivery. | Tiền đầu tư tiếp theo nên chi vào đâu? Đặt câu hỏi này giúp đội dự án xác định liệu họ nên tiếp tục với nhiệm vụ hiện tại hay chuyển sang hoạt động tiếp theo để tối ưu hóa việc cung cấp giá trị. |
+| Reviewing processes can entail determining if processes are efficient, or if there is waste in the process that can be eliminated. | Việc xem xét quy trình có thể bao gồm việc xác định liệu quy trình có hiệu quả hay không, hoặc có lãng phí nào trong quy trình có thể loại bỏ không. |
+| Time spent tracking conformance to process is time the project team cannot spend on delivering the outcomes for which the project was commissioned. | Thời gian dành để theo dõi sự tuân thủ quy trình là thời gian mà đội dự án không thể sử dụng để cung cấp các kết quả mà dự án được giao. |
+| Therefore, project teams utilize just enough time reviewing process conformance to maximize the benefits delivered from the review while still satisfying the governance needs of process. | Do đó, đội dự án chỉ sử dụng đủ thời gian để xem xét sự tuân thủ quy trình nhằm tối đa hóa lợi ích từ việc xem xét trong khi vẫn đáp ứng yêu cầu quản trị của quy trình. |
+| English | Vietnamese |
+|---------|------------|
+| Example of non-value-added work. A PMO wants to track the type of work project team members are doing. | Ví dụ về công việc không tạo giá trị. Một PMO muốn theo dõi loại công việc mà các thành viên đội dự án đang thực hiện. |
+| They ask the project team to record the type of work they are doing in specific categories on their time sheets. | Họ yêu cầu đội dự án ghi lại loại công việc họ đang thực hiện vào các danh mục cụ thể trên bảng chấm công. |
+| The time taken to categorize and record their time can be viewed as non-value-added work. | Thời gian dành để phân loại và ghi lại công việc có thể được coi là công việc không tạo giá trị. |
+| English | Vietnamese |
+|---------|------------|
+| In addition to being efficient, processes should be effective. | Bên cạnh việc hiệu quả, các quy trình cũng cần phải hiệu suất. |
+| This means they need to comply with quality requirements, regulations, standards, and organizational policies in addition to producing the desired outcome. | Điều này có nghĩa là chúng cần tuân thủ các yêu cầu chất lượng, quy định, tiêu chuẩn, và chính sách của tổ chức ngoài việc tạo ra kết quả mong muốn. |
+| Process evaluation can include process audits and quality assurance activities to ensure processes are being followed and are accomplishing the intended outcomes. | Việc đánh giá quy trình có thể bao gồm kiểm toán quy trình và các hoạt động đảm bảo chất lượng để đảm bảo các quy trình được tuân thủ và đạt được kết quả như dự định. |
+| 2.5.2 BALANCING COMPETING CONSTRAINTS | 2.5.2 CÂN BẰNG CÁC HẠN CHẾ CẠNH TRANH |
+| Successfully leading a project includes understanding the constraints associated with the work. | Lãnh đạo dự án thành công bao gồm việc hiểu các hạn chế liên quan đến công việc. |
+| Constraints can take the form of fixed delivery dates, compliance to regulatory codes, a predetermined budget, quality policies, considerations of the triple bottom line, and so forth. | Các hạn chế có thể ở dạng thời hạn giao hàng cố định, tuân thủ các quy định, ngân sách được xác định trước, chính sách chất lượng, cân nhắc đến “triple bottom line” và các yếu tố khác. |
+| The constraints may shift and change throughout the project. | Các hạn chế có thể thay đổi trong suốt quá trình dự án. |
+| A new stakeholder requirement may entail expanding the schedule and budget. | Một yêu cầu mới từ bên liên quan có thể đòi hỏi mở rộng lịch trình và ngân sách. |
+| A reduction in budget may entail relaxing a quality requirement or reducing scope. | Việc giảm ngân sách có thể đồng nghĩa với việc nới lỏng yêu cầu chất lượng hoặc giảm phạm vi. |
+| Balancing these shifting constraints, while maintaining stakeholder satisfaction, is an ongoing project activity. | Cân bằng các hạn chế thay đổi này trong khi duy trì sự hài lòng của các bên liên quan là một hoạt động liên tục trong dự án. |
+| At times, it may include meeting with the customer, sponsor, or product owner to present alternatives and implications. | Đôi khi, điều này có thể bao gồm họp với khách hàng, nhà tài trợ, hoặc chủ sở hữu sản phẩm để trình bày các lựa chọn thay thế và các tác động. |
+| Other times, the decisions and potential variances may be within the project team’s authority to make trade-offs to deliver the end result. | Những lúc khác, các quyết định và biến động tiềm ẩn có thể thuộc quyền của đội dự án để thực hiện các đánh đổi nhằm đạt kết quả cuối cùng. |
+| Either way, this balancing activity is ongoing throughout the project. | Dù bằng cách nào, hoạt động cân bằng này diễn ra liên tục trong suốt dự án. |
+| English | Vietnamese |
+|---------|------------|
+| 2.5.3 MAINTAINING PROJECT TEAM FOCUS | 2.5.3 Duy trì sự tập trung của đội dự án |
+| Project managers have a responsibility for assessing and balancing the project team focus and attention. | Các nhà quản lý dự án có trách nhiệm đánh giá và cân bằng sự tập trung và chú ý của đội dự án. |
+| This involves evaluating short- and long-term projections of progress toward delivery goals. | Điều này bao gồm đánh giá dự báo ngắn hạn và dài hạn về tiến độ đạt được các mục tiêu giao hàng. |
+| Leading the project team includes balancing the workload and assessing if project team members are satisfied with their work so they remain motivated. | Lãnh đạo đội dự án bao gồm cân bằng khối lượng công việc và đánh giá xem các thành viên có hài lòng với công việc của họ để duy trì động lực không. |
+| To maximize business and stakeholder value delivered throughout the project, project team attention needs to be kept in a healthy balance. | Để tối đa hóa giá trị kinh doanh và lợi ích cho các bên liên quan trong suốt dự án, sự tập trung của đội dự án cần được duy trì ở mức cân bằng hợp lý. |
+| Leading with a goal of maximizing overall delivered value involves focusing on production (delivering value) and protecting the project team’s production capability (project team health and satisfaction). | Lãnh đạo với mục tiêu tối đa hóa giá trị tổng thể được giao bao gồm tập trung vào sản xuất (giao giá trị) và bảo vệ khả năng sản xuất của đội dự án (sức khỏe và sự hài lòng của đội dự án). |
+| The goal is to keep the project team focused on delivering value and maintain awareness of when potential issues, delays, and cost overruns enter the project. | Mục tiêu là giữ cho đội dự án tập trung vào việc giao giá trị và nhận biết khi các vấn đề tiềm ẩn, trì hoãn, hoặc vượt chi phí xuất hiện trong dự án. |
+| 2.5.4 PROJECT COMMUNICATIONS AND ENGAGEMENT | 2.5.4 Truyền thông và tương tác dự án |
+| Much of the project work is associated with communication and engagement, especially work associated with maintaining project team member and other stakeholder engagement. | Phần lớn công việc dự án liên quan đến truyền thông và tương tác, đặc biệt là công việc liên quan đến duy trì sự tham gia của các thành viên đội dự án và các bên liên quan khác. |
+| As described in the Stakeholder Performance Domain, communication entails formal and informal communication, in addition to verbal and written communication. | Như đã mô tả trong Lĩnh vực Hiệu suất Bên liên quan, truyền thông bao gồm cả truyền thông chính thức và không chính thức, cũng như truyền thông bằng lời nói và văn bản. |
+| Information can be collected in meetings, conversations, and by pulling information from electronic repositories. | Thông tin có thể được thu thập qua các cuộc họp, trò chuyện, và từ các kho lưu trữ điện tử. |
+| Once collected, it is distributed as indicated in the project management communications plan. | Khi đã thu thập, thông tin được phân phối theo kế hoạch truyền thông quản lý dự án. |
+| On a day-to-day basis, there are ad hoc requests for information, presentations, reports, and other forms of communication. | Trong công việc hàng ngày, có những yêu cầu thông tin, bài thuyết trình, báo cáo, và các hình thức truyền thông khác theo nhu cầu. |
+| An abundance of ad hoc communication requests may indicate that the communication planning was not sufficient to meet stakeholder needs. | Sự nhiều yêu cầu truyền thông theo nhu cầu có thể cho thấy việc lập kế hoạch truyền thông chưa đủ để đáp ứng nhu cầu của các bên liên quan. |
+| In this situation, further stakeholder engagement may be necessary to ensure stakeholder information requirements are met. | Trong tình huống này, cần có thêm sự tương tác với các bên liên quan để đảm bảo các yêu cầu thông tin của họ được đáp ứng. |
+| 2.5.5 MANAGING PHYSICAL RESOURCES | 2.5.5 Quản lý nguồn lực vật chất |
+| Some projects require materials and supplies from third parties. | Một số dự án yêu cầu nguyên vật liệu và nguồn cung từ bên thứ ba. |
+| Planning, ordering, transporting, storing, tracking, and controlling these physical resources can take a large amount of time and effort. | Lập kế hoạch, đặt hàng, vận chuyển, lưu trữ, theo dõi và kiểm soát các nguồn lực vật chất này có thể tốn nhiều thời gian và công sức. |
+| English | Vietnamese |
+|---------|------------|
+| Large amounts of physical resources require an integrated logistics system. | Số lượng lớn nguồn lực vật chất yêu cầu một hệ thống logistics tích hợp. |
+| This is usually documented in company policies that are then implemented in projects. | Điều này thường được ghi trong các chính sách của công ty và sau đó được thực hiện trong các dự án. |
+| A logistics plan describes how the company policy will be implemented on the project. | Kế hoạch logistics mô tả cách chính sách công ty sẽ được thực hiện trong dự án. |
+| Supporting documentation includes estimates for the type of material, basis of estimates, expected usage over time, specifications for grade, and the time and location for deliveries. | Tài liệu hỗ trợ bao gồm ước lượng loại vật liệu, cơ sở của ước lượng, mức sử dụng dự kiến theo thời gian, thông số kỹ thuật về cấp chất lượng, và thời gian và địa điểm giao hàng. |
+| The objectives from a physical resource perspective are to: | Mục tiêu từ góc độ nguồn lực vật chất bao gồm: |
+| ▶ Reduce or eliminate the material handling and storage on site, | ▶ Giảm hoặc loại bỏ việc xử lý và lưu trữ vật liệu tại hiện trường, |
+| ▶ Eliminate wait times for materials, | ▶ Loại bỏ thời gian chờ vật liệu, |
+| ▶ Minimize scrap and waste, and | ▶ Giảm thiểu phế liệu và lãng phí, và |
+| ▶ Facilitate a safe work environment. | ▶ Tạo điều kiện cho môi trường làm việc an toàn. |
+| All of this work is integrated with the master project schedule to provide clear expectations and communications for all parties involved. | Tất cả công việc này được tích hợp với lịch trình tổng thể của dự án để cung cấp kỳ vọng và truyền thông rõ ràng cho tất cả các bên liên quan. |
+| 2.5.6 WORKING WITH PROCUREMENTS | 2.5.6 Làm việc với các hoạt động mua sắm |
+| Many projects involve some form of contracting or procurement. | Nhiều dự án liên quan đến một hình thức hợp đồng hoặc mua sắm nào đó. |
+| Procurement can cover everything from material, capital equipment, and supplies to solutions, labor, and services. | Mua sắm có thể bao gồm mọi thứ từ vật liệu, thiết bị vốn, nguồn cung cho đến giải pháp, nhân lực và dịch vụ. |
+| In most organizations, project managers do not have contracting authority. | Trong hầu hết các tổ chức, các nhà quản lý dự án không có quyền ký hợp đồng. |
+| Rather, they work with contracting officers or other people with expertise in contracts, laws, and regulations. | Thay vào đó, họ làm việc với các nhân viên hợp đồng hoặc những người có chuyên môn về hợp đồng, luật pháp và quy định. |
+| Organizations usually have rigorous policies and procedures associated with procurements. | Các tổ chức thường có các chính sách và quy trình nghiêm ngặt liên quan đến mua sắm. |
+| The policies identify who has authority to enter into a contract, the limits of authority, and the processes and procedures that should be followed. | Các chính sách xác định ai có quyền ký hợp đồng, giới hạn quyền hạn, và các quy trình cần tuân theo. |
+| Prior to conducting a procurement, the project manager and technically qualified project team members work with contracting professionals to develop the request for proposals (RFP), statement of work (SOW), terms and conditions, and other necessary documents to go out to bid. | Trước khi thực hiện mua sắm, nhà quản lý dự án và các thành viên đội dự án có trình độ kỹ thuật làm việc với các chuyên gia hợp đồng để phát triển yêu cầu đề xuất (RFP), bản mô tả công việc (SOW), các điều khoản và điều kiện, và các tài liệu cần thiết khác để gửi thầu. |
+| English | Vietnamese |
+|---------|------------|
+| 2.5.6.1 The Bid Process | 2.5.6.1 Quy trình đấu thầu |
+| The bid process includes developing and publicizing bid documents, bidder conferences, and selecting a bidder. | Quy trình đấu thầu bao gồm phát triển và công bố tài liệu đấu thầu, tổ chức hội nghị nhà thầu, và lựa chọn nhà thầu. |
+| Bid documents can include: | Tài liệu đấu thầu có thể bao gồm: |
+| ▶ Request for information. A request for information is used to gather more information from the market prior to sending out bid documents to a set of selected vendors. | ▶ Yêu cầu thông tin. Yêu cầu thông tin được sử dụng để thu thập thêm thông tin từ thị trường trước khi gửi tài liệu đấu thầu đến một tập hợp nhà cung cấp đã chọn. |
+| ▶ Request for proposal. This bid document is used for complex or complicated scope where the buyer is looking for the vendor to provide a solution. | ▶ Yêu cầu đề xuất. Tài liệu đấu thầu này được sử dụng cho phạm vi phức tạp, nơi người mua mong muốn nhà cung cấp đưa ra giải pháp. |
+| ▶ Request for quote. This bid document is used when price is the main deciding factor, and the proposed solution is readily available. | ▶ Yêu cầu báo giá. Tài liệu đấu thầu này được sử dụng khi giá là yếu tố quyết định chính và giải pháp được đề xuất sẵn sàng có sẵn. |
+| These three types cover the majority of bidding needs. There are other bid documents; however, they tend to be industry specific. | Ba loại tài liệu này đáp ứng phần lớn các nhu cầu đấu thầu. Ngoài ra còn có các tài liệu đấu thầu khác; tuy nhiên, chúng thường đặc thù theo ngành. |
+| Once the bid documents are distributed, the buyer generally has a bidder conference to respond to bidder questions and provide clarifying information. | Khi tài liệu đấu thầu được phân phối, người mua thường tổ chức hội nghị nhà thầu để trả lời câu hỏi và cung cấp thông tin làm rõ. |
+| Then the bidders develop their responses and deliver them to the buyer by the date specified in the bid documents. | Sau đó, các nhà thầu phát triển câu trả lời của họ và gửi cho người mua trước ngày được chỉ định trong tài liệu đấu thầu. |
+| Choosing the best vendor, sometimes known as source selection, is often based on a number of criteria, such as experience, references, price, and timely delivery. | Lựa chọn nhà cung cấp tốt nhất, đôi khi được gọi là lựa chọn nguồn, thường dựa trên nhiều tiêu chí, như kinh nghiệm, tham chiếu, giá cả và thời gian giao hàng đúng hạn. |
+| These variables may be weighted to reflect the relative importance of each. | Các biến này có thể được gán trọng số để phản ánh tầm quan trọng tương đối của từng yếu tố. |
+| The buyer evaluates vendor bids against the criteria to select an appropriate vendor(s). | Người mua đánh giá các đề xuất của nhà cung cấp dựa trên các tiêu chí để chọn nhà cung cấp phù hợp. |
+| The buyer and vendor negotiate terms and conditions. Most everything can be negotiated, from cost to delivery and payment dates, to location of work, ownership of intellectual property, and so forth. | Người mua và nhà cung cấp thương lượng các điều khoản và điều kiện. Hầu hết mọi thứ có thể được thương lượng, từ chi phí, thời gian giao hàng và thanh toán, đến địa điểm làm việc, quyền sở hữu tài sản trí tuệ, v.v. |
+| 2.5.6.2 Contracting | 2.5.6.2 Ký kết hợp đồng |
+| Eventually, the parties reach agreement and enter into a contract. | Cuối cùng, các bên đạt được thỏa thuận và ký kết hợp đồng. |
+| The type of contracting vehicle depends on the size of the purchase, the stability of the scope of work, and the risk tolerances of the organizations. | Loại hợp đồng phụ thuộc vào quy mô mua sắm, mức độ ổn định của phạm vi công việc và mức độ chấp nhận rủi ro của các tổ chức. |
+| English | Vietnamese |
+|---------|------------|
+| For projects that use an adaptive approach for some deliverables and a predictive approach for others, a master agreement may be used for the overall contract. | Đối với các dự án sử dụng phương pháp thích ứng cho một số sản phẩm giao và phương pháp dự đoán cho các sản phẩm khác, một thỏa thuận chính có thể được sử dụng cho hợp đồng tổng thể. |
+| The adaptive work may be placed in an appendix or supplement. This allows the changes to occur on the adaptive scope without impacting the overall contract. | Công việc thích ứng có thể được đặt trong phụ lục hoặc tài liệu bổ sung. Điều này cho phép các thay đổi diễn ra trên phạm vi thích ứng mà không ảnh hưởng đến hợp đồng tổng thể. |
+| Once the vendor is selected, the project plans and documents are updated to incorporate vendor dates, resources, costs, quality requirements, risks, etc. | Khi nhà cung cấp được chọn, kế hoạch và tài liệu dự án được cập nhật để tích hợp các ngày, nguồn lực, chi phí, yêu cầu chất lượng, rủi ro của nhà cung cấp, v.v. |
+| From that point, the vendor becomes a project stakeholder. | Từ thời điểm đó, nhà cung cấp trở thành một bên liên quan của dự án. |
+| Information in the Stakeholders Performance Domain and Measurement Performance Domain will apply to the vendor(s) throughout the project. | Thông tin trong Lĩnh vực Hiệu suất của Các Bên Liên Quan và Lĩnh vực Hiệu suất Đo lường sẽ áp dụng cho nhà cung cấp trong suốt dự án. |
+| Procurements can take place at any point during the project. | Các hoạt động mua sắm có thể diễn ra vào bất kỳ thời điểm nào trong dự án. |
+| All procurement activities are integrated into the project operations. | Tất cả các hoạt động mua sắm được tích hợp vào hoạt động dự án. |
+| 2.5.7 MONITORING NEW WORK AND CHANGES | 2.5.7 GIÁM SÁT CÔNG VIỆC MỚI VÀ CÁC THAY ĐỔI |
+| In adaptive projects, there is an expectation that work will evolve and adapt. | Trong các dự án thích ứng, có kỳ vọng rằng công việc sẽ tiến triển và thích nghi. |
+| As a result, new work can be added to the product backlog, as needed. | Do đó, công việc mới có thể được thêm vào danh sách công việc tồn đọng của sản phẩm khi cần thiết. |
+| However, if more work is added than is being completed, or if the same amount of work is added that is being completed, the project will continue without end. | Tuy nhiên, nếu có nhiều công việc được thêm vào hơn số công việc đang được hoàn thành, hoặc nếu cùng số lượng công việc được thêm vào với số công việc đang được hoàn thành, dự án sẽ tiếp tục mà không kết thúc. |
+| The project manager works with the product owner to manage expectations around adding scope, the implications to the budget, and the availability of project team members. | Quản lý dự án làm việc với chủ sản phẩm để quản lý kỳ vọng liên quan đến việc mở rộng phạm vi, tác động đến ngân sách, và khả năng sẵn sàng của các thành viên trong đội dự án. |
+| The product owner prioritizes the project backlog on an ongoing basis so that high-priority items are completed. | Chủ sản phẩm liên tục ưu tiên danh sách công việc tồn đọng của dự án để các mục ưu tiên cao được hoàn thành. |
+| If the schedule or budget is constrained, the product owner may consider the project done when the highest priority items are delivered. | Nếu lịch trình hoặc ngân sách bị hạn chế, chủ sản phẩm có thể xem dự án hoàn thành khi các mục ưu tiên cao nhất được giao. |
+| English | Vietnamese |
+|---------|------------|
+| In predictive projects, the project team actively manages changes to the work to ensure only approved changes are included in the scope baseline. | Trong các dự án dự đoán, nhóm dự án quản lý chủ động các thay đổi công việc để đảm bảo chỉ những thay đổi được phê duyệt mới được đưa vào phạm vi cơ sở. |
+| Any changes to the scope are then accompanied by appropriate changes to the people, resources, schedule, and budget. | Bất kỳ thay đổi nào về phạm vi sẽ đi kèm với các thay đổi phù hợp về con người, nguồn lực, lịch trình và ngân sách. |
+| Scope changes can add to uncertainty; therefore, any change requests should be accompanied by an evaluation of any new risks that are introduced due to the addition to or change in scope. | Thay đổi phạm vi có thể làm tăng tính không chắc chắn; do đó, bất kỳ yêu cầu thay đổi nào cũng nên đi kèm với việc đánh giá các rủi ro mới được tạo ra do việc bổ sung hoặc thay đổi phạm vi. |
+| The project manager works with the change control board and the change requestor to guide change requests through the change control process. | Quản lý dự án làm việc với ban kiểm soát thay đổi và người yêu cầu thay đổi để hướng dẫn các yêu cầu thay đổi qua quy trình kiểm soát thay đổi. |
+| Approved changes are integrated into the applicable project planning documents, product backlog, and project scope. | Các thay đổi được phê duyệt được tích hợp vào các tài liệu kế hoạch dự án, danh sách tồn đọng sản phẩm và phạm vi dự án. |
+| The changes are also communicated to the appropriate stakeholders. | Các thay đổi cũng được truyền đạt tới các bên liên quan phù hợp. |
+| 2.5.8 LEARNING THROUGHOUT THE PROJECT | 2.5.8 HỌC HỎI TRONG SUỐT DỰ ÁN |
+| Periodically, the project team may meet to determine what they can do better in the future (lessons learned) and how they can improve and challenge the process in upcoming iterations (retrospectives). | Định kỳ, nhóm dự án có thể họp để xác định những gì họ có thể làm tốt hơn trong tương lai (bài học rút ra) và cách họ có thể cải thiện và thử thách quy trình trong các lần lặp tiếp theo (hồi cứu). |
+| Ways of working can evolve to produce better outcomes. | Các phương pháp làm việc có thể tiến hóa để tạo ra kết quả tốt hơn. |
+| 2.5.8.1 Knowledge Management | 2.5.8.1 Quản lý Kiến thức |
+| A lot of learning takes place during projects. | Rất nhiều kiến thức được học hỏi trong quá trình dự án. |
+| Some of the learning is project specific, such as a faster way to accomplish specific work. | Một số kiến thức học được mang tính dự án cụ thể, chẳng hạn như cách hoàn thành công việc cụ thể nhanh hơn. |
+| Some learning can be shared with other project teams to improve outcomes, such as a quality assurance approach that results in fewer defects. | Một số kiến thức có thể được chia sẻ với các nhóm dự án khác để cải thiện kết quả, chẳng hạn như phương pháp đảm bảo chất lượng dẫn đến ít lỗi hơn. |
+| Still other learning can be shared throughout the organization, such as training users how to work with a new software application. | Một số kiến thức khác có thể được chia sẻ trong toàn bộ tổ chức, chẳng hạn như đào tạo người dùng cách sử dụng một ứng dụng phần mềm mới. |
+| 2.5.8.2 Explicit and Tacit Knowledge | 2.5.8.2 Kiến thức Rõ ràng và Ngầm hiểu |
+| Throughout the project, project teams develop and share explicit knowledge. | Trong suốt dự án, các nhóm dự án phát triển và chia sẻ kiến thức rõ ràng. |
+| Explicit knowledge can be readily codified using words, pictures, or numbers. | Kiến thức rõ ràng có thể được mã hóa dễ dàng bằng từ ngữ, hình ảnh hoặc số liệu. |
+| For example, the steps to a new process are explicit knowledge that can be documented. | Ví dụ, các bước của một quy trình mới là kiến thức rõ ràng có thể được ghi chép lại. |
+| Explicit knowledge can be distributed using information management tools to connect people to information, such as manuals, registers, web searches, and databases. | Kiến thức rõ ràng có thể được phân phối thông qua các công cụ quản lý thông tin để kết nối con người với thông tin, chẳng hạn như sổ tay, đăng ký, tìm kiếm trên web và cơ sở dữ liệu. |
+| English | Vietnamese |
+|---------|------------|
+| Another type of knowledge is tacit knowledge. Tacit knowledge is challenging to express as it cannot be codified. | Một loại kiến thức khác là kiến thức ngầm hiểu. Kiến thức ngầm hiểu khó biểu đạt vì nó không thể được mã hóa. |
+| Tacit knowledge is comprised of experience, insights, and practical knowledge or skill. | Kiến thức ngầm hiểu bao gồm kinh nghiệm, nhận thức và kiến thức hoặc kỹ năng thực tiễn. |
+| Tacit knowledge is shared by connecting the people who need the knowledge with people who have the knowledge. | Kiến thức ngầm hiểu được chia sẻ bằng cách kết nối những người cần kiến thức với những người sở hữu kiến thức. |
+| This can be accomplished via networking, interviews, job shadowing, discussion forums, workshops, or other similar methods. | Điều này có thể được thực hiện thông qua mạng lưới quan hệ, phỏng vấn, quan sát công việc, diễn đàn thảo luận, hội thảo, hoặc các phương pháp tương tự khác. |
+| Because projects are temporary endeavors, much of the knowledge is lost once the project is completed. | Vì các dự án là những nỗ lực tạm thời, phần lớn kiến thức sẽ bị mất khi dự án kết thúc. |
+| Being attentive to knowledge transfer serves the organization by not only delivering the value that the project was undertaken to achieve, it also allows the organization to gain knowledge from the experience of running projects. | Chú ý đến việc chuyển giao kiến thức phục vụ tổ chức không chỉ bằng cách đem lại giá trị mà dự án hướng tới, mà còn giúp tổ chức thu được kiến thức từ kinh nghiệm thực hiện dự án. |
+| 2.5.9 INTERACTIONS WITH OTHER PERFORMANCE DOMAINS | 2.5.9 TƯƠNG TÁC VỚI CÁC LĨNH VỰC HIỆU SUẤT KHÁC |
+| The Project Work Performance Domain interacts and enables other performance domains on the project. | Lĩnh vực Hiệu suất Công việc Dự án tương tác và hỗ trợ các lĩnh vực hiệu suất khác trong dự án. |
+| Project work enables and supports efficient and effective planning, delivery, and measurement. | Công việc dự án cho phép và hỗ trợ việc lập kế hoạch, thực hiện và đo lường hiệu quả và hiệu suất. |
+| It provides the environment for project team meetings, interactions, and stakeholder engagement to be effective. | Nó cung cấp môi trường để các cuộc họp nhóm dự án, tương tác và sự tham gia của các bên liên quan trở nên hiệu quả. |
+| Project work supports navigating uncertainty, ambiguity, and complexity; and it balances their impacts with the other project constraints. | Công việc dự án hỗ trợ việc điều hướng sự không chắc chắn, mơ hồ và phức tạp; đồng thời cân bằng các tác động của chúng với các ràng buộc khác của dự án. |
+| English | Vietnamese |
+|---------|------------|
+| 2.5.10 CHECKING RESULTS | 2.5.10 KIỂM TRA KẾT QUẢ |
+| Table 2-7 identifies the outcomes on the left and ways of checking them on the right. | Bảng 2-7 xác định các kết quả ở bên trái và cách kiểm tra chúng ở bên phải. |
+![Table 2-7](Project/Table_2-7._Checking_Outcomes-Project_Work_Performance_Domain.png)
+
+| English | Vietnamese |
+|---------|------------|
+| 2.6 DELIVERY PERFORMANCE DOMAIN | 2.6 LĨNH VỰC HIỆU SUẤT GIAO HÀNG |
+
+![Figure 2-20](Project/Figure_2-20._Delivery_Performance_Domain.png)
+
+| English | Vietnamese |
+|---------|------------|
+| Projects support strategy execution and the advancement of business objectives. | Các dự án hỗ trợ thực thi chiến lược và thúc đẩy các mục tiêu kinh doanh. |
+| Project delivery focuses on meeting requirements, scope, and quality expectations to produce the expected deliverables that will drive the intended outcomes. | Việc giao dự án tập trung vào việc đáp ứng các yêu cầu, phạm vi và tiêu chuẩn chất lượng để tạo ra các sản phẩm giao dự kiến, từ đó thúc đẩy các kết quả mong muốn. |
+| English | Vietnamese |
+|---------|------------|
+| Requirement. A condition or capability that is necessary to be present in a product, service, or result to satisfy a business need. | Yêu cầu. Một điều kiện hoặc khả năng cần có trong sản phẩm, dịch vụ hoặc kết quả để đáp ứng nhu cầu kinh doanh. |
+| Work Breakdown Structure (WBS). A hierarchical decomposition of the total scope of work to be carried out by the project team to accomplish the project objectives and create the required deliverables. | Cấu trúc phân rã công việc (WBS). Một phân rã theo cấp bậc của toàn bộ phạm vi công việc mà nhóm dự án thực hiện để đạt được mục tiêu dự án và tạo ra các sản phẩm giao cần thiết. |
+| Definition of Done (DoD). A checklist of all the criteria required to be met so that a deliverable can be considered ready for customer use. | Định nghĩa hoàn thành (DoD). Một danh sách kiểm tra tất cả các tiêu chí cần được đáp ứng để một sản phẩm giao có thể được coi là sẵn sàng sử dụng cho khách hàng. |
+| Quality. The degree to which a set of inherent characteristics fulfills requirements. | Chất lượng. Mức độ mà một tập hợp các đặc tính vốn có đáp ứng các yêu cầu. |
+| Cost of Quality (COQ). All costs incurred over the life of the product by investment in preventing nonconformance to requirements, appraisal of the product or service for conformance to requirements, and failure to meet requirements. | Chi phí chất lượng (COQ). Tất cả các chi phí phát sinh trong suốt vòng đời của sản phẩm do đầu tư vào việc ngăn ngừa không phù hợp với yêu cầu, đánh giá sản phẩm hoặc dịch vụ về việc tuân thủ các yêu cầu, và thất bại trong việc đáp ứng các yêu cầu. |
+| English | Vietnamese |
+|---------|------------|
+| Projects provide business value by developing new products or services, solving problems, or fixing features that were defective or suboptimal. | Dự án cung cấp giá trị kinh doanh bằng cách phát triển sản phẩm hoặc dịch vụ mới, giải quyết vấn đề, hoặc sửa các tính năng bị lỗi hoặc chưa tối ưu. |
+| Projects often deliver multiple outcomes that stakeholders may value differently. | Các dự án thường mang lại nhiều kết quả mà các bên liên quan có thể đánh giá khác nhau. |
+| For example, one group may value ease of use or the time-saving aspects of a deliverable while another group values its economic return or market differentiation. | Ví dụ, một nhóm có thể đánh giá cao tính dễ sử dụng hoặc các yếu tố tiết kiệm thời gian của sản phẩm giao trong khi nhóm khác quan tâm đến lợi nhuận kinh tế hoặc khả năng khác biệt hóa trên thị trường. |
+| 2.6.1 DELIVERY OF VALUE | 2.6.1 CUNG CẤP GIÁ TRỊ |
+| Projects that use a development approach that supports releasing deliverables throughout the project life cycle can start delivering value to the business, customer, or other stakeholders during the project. | Các dự án sử dụng phương pháp phát triển hỗ trợ việc phát hành sản phẩm giao trong suốt vòng đời dự án có thể bắt đầu cung cấp giá trị cho doanh nghiệp, khách hàng hoặc các bên liên quan khác trong quá trình dự án. |
+| Projects that deliver the bulk of their deliverable at the end of the project life cycle generate value after the initial deployment. | Các dự án mà phần lớn sản phẩm giao được cung cấp vào cuối vòng đời dự án sẽ tạo ra giá trị sau khi triển khai ban đầu. |
+| English | Vietnamese |
+|---------|------------|
+| Business value often continues to be captured long after the initial project has ended. | Giá trị kinh doanh thường tiếp tục được khai thác lâu sau khi dự án ban đầu đã kết thúc. |
+| Frequently, longer product and program life cycles are used to measure the benefits and value contributed by earlier projects. | Thường thì các chu kỳ sống dài hơn của sản phẩm và chương trình được sử dụng để đo lường lợi ích và giá trị mà các dự án trước đó đóng góp. |
+| A business case document often provides the business justification and a projection of anticipated business value from a project. | Tài liệu business case thường cung cấp cơ sở kinh doanh và dự báo giá trị kinh doanh dự kiến từ một dự án. |
+| The format of this business case varies based on the development approach and life cycle selected. | Hình thức của business case này thay đổi dựa trên phương pháp phát triển và vòng đời được lựa chọn. |
+| Examples include business case documents with detailed estimates of return on investment or a lean, start-up canvas that describes high-level elements such as the problem, solution, revenue streams, and cost structures. | Ví dụ bao gồm các tài liệu business case với ước tính chi tiết về lợi tức đầu tư hoặc một bảng khởi nghiệp gọn nhẹ mô tả các yếu tố tổng quát như vấn đề, giải pháp, dòng doanh thu và cấu trúc chi phí. |
+| These business documents demonstrate how the project outcomes align with the organization’s business objectives. | Các tài liệu kinh doanh này minh chứng cách các kết quả dự án phù hợp với các mục tiêu kinh doanh của tổ chức. |
+| Project-authorizing documents attempt to quantify the project’s desired outcomes to allow for periodic measurement. | Các tài liệu ủy quyền dự án cố gắng định lượng các kết quả mong muốn của dự án để có thể đo lường định kỳ. |
+| These documents may range from detailed, baselined plans or high-level roadmaps that provide an overview of the project life cycle, major releases, key deliverables, reviews, and other top-level information. | Các tài liệu này có thể bao gồm từ các kế hoạch chi tiết đã được cơ sở hóa hoặc lộ trình tổng quát cung cấp cái nhìn tổng quan về vòng đời dự án, các phiên bản chính, các sản phẩm giao quan trọng, các đánh giá và các thông tin tổng quát khác. |
+| 2.6.2 DELIVERABLES | 2.6.2 SẢN PHẨM GIAO |
+| In this context, deliverable refers to the interim or final product, service, or results from a project. | Trong bối cảnh này, sản phẩm giao đề cập đến sản phẩm tạm thời hoặc cuối cùng, dịch vụ hoặc kết quả từ một dự án. |
+| The deliverables enable the outcomes that the project was undertaken to create. | Các sản phẩm giao tạo điều kiện cho những kết quả mà dự án được thực hiện nhằm tạo ra. |
+| Deliverables reflect the stakeholder requirements, scope, and quality, along with the long-term impacts to profit, people, and the planet. | Sản phẩm giao phản ánh các yêu cầu của các bên liên quan, phạm vi, chất lượng, cùng với tác động lâu dài đến lợi nhuận, con người và môi trường. |
+| 2.6.2.1 Requirements | 2.6.2.1 YÊU CẦU |
+| A requirement is a condition or capability that is necessary to be present in a product, service, or result to satisfy a business need. | Yêu cầu là một điều kiện hoặc khả năng cần phải có trong sản phẩm, dịch vụ hoặc kết quả để đáp ứng một nhu cầu kinh doanh. |
+| Requirements can be very high level, such as those found in a business case, or they can be very detailed, such as those found in acceptance criteria for a component of a system. | Yêu cầu có thể ở mức rất tổng quát, chẳng hạn như trong business case, hoặc rất chi tiết, chẳng hạn như các tiêu chí chấp nhận cho một thành phần của hệ thống. |
+| Projects that have a well-defined scope, which is relatively stable, generally work with project stakeholders to elicit and document the requirements during up-front planning. | Các dự án có phạm vi được xác định rõ ràng và tương đối ổn định thường làm việc với các bên liên quan để thu thập và ghi chép yêu cầu trong quá trình lập kế hoạch ban đầu. |
+| Projects that have a high-level understanding of the requirements at the start of a project may evolve those requirements over time. | Các dự án chỉ có hiểu biết tổng quát về yêu cầu khi bắt đầu dự án có thể phát triển các yêu cầu đó theo thời gian. |
+| Some projects discover requirements during project work. | Một số dự án phát hiện yêu cầu trong quá trình thực hiện dự án. |
+| English | Vietnamese |
+|---------|------------|
+| ▶ Requirements elicitation. To elicit means to draw out, bring forth, or evoke. | ▶ Thu thập yêu cầu. "Thu thập" nghĩa là rút ra, đưa ra hoặc gợi ra. |
+| There is more to collecting requirements than interviewing or conducting focus groups. | Việc thu thập yêu cầu không chỉ đơn thuần là phỏng vấn hay tổ chức các nhóm thảo luận tập trung. |
+| Sometimes requirements are drawn out by analyzing data, observing processes, reviewing defect logs, or other methods. | Đôi khi yêu cầu được rút ra bằng cách phân tích dữ liệu, quan sát quy trình, xem xét nhật ký lỗi hoặc các phương pháp khác. |
+| Part of eliciting requirements is documenting them and gaining stakeholder agreement. | Một phần của việc thu thập yêu cầu là ghi chép chúng và đạt được sự đồng thuận từ các bên liên quan. |
+| Well-documented requirements meet the following criteria: | Yêu cầu được ghi chép tốt đáp ứng các tiêu chí sau: |
+| ▹ Clear. There is only one way to interpret the requirement. | ▹ Rõ ràng. Chỉ có một cách diễn giải yêu cầu. |
+| ▹ Concise. The requirement is stated in as few words as possible. | ▹ Ngắn gọn. Yêu cầu được trình bày bằng càng ít từ càng tốt. |
+| ▹ Verifiable. There is a way to verify that the requirement has been met. | ▹ Có thể kiểm chứng. Có cách để xác minh yêu cầu đã được đáp ứng. |
+| ▹ Consistent. There are no contradictory requirements. | ▹ Nhất quán. Không có yêu cầu nào mâu thuẫn. |
+| ▹ Complete. The set of requirements represents the entirety of the current project or product needs. | ▹ Đầy đủ. Bộ yêu cầu phản ánh toàn bộ nhu cầu hiện tại của dự án hoặc sản phẩm. |
+| ▹ Traceable. Each requirement can be recognized by a unique identifier. | ▹ Có thể truy vết. Mỗi yêu cầu có thể được nhận diện bằng một mã định danh duy nhất. |
+| ▶ Evolving and discovering requirements. On projects that do not have clearly defined requirements up front, prototypes, demonstrations, storyboards, and mock-ups can be used to evolve the requirements. | ▶ Yêu cầu phát triển và khám phá. Trong các dự án không có yêu cầu được xác định rõ ngay từ đầu, nguyên mẫu, trình diễn, storyboard và mô phỏng có thể được sử dụng để phát triển yêu cầu. |
+| In these situations, stakeholders are more likely to take an “I’ll know it when I see it” approach to developing requirements. | Trong những tình huống này, các bên liên quan có xu hướng áp dụng phương pháp “tôi sẽ biết khi thấy” để phát triển yêu cầu. |
+| Evolving requirements are common in projects using iterative, incremental, or adaptive development approaches. | Yêu cầu phát triển thường xuất hiện trong các dự án sử dụng phương pháp phát triển lặp đi lặp lại, tăng dần hoặc thích ứng. |
+| In some cases, new opportunities arise that change requirements. | Trong một số trường hợp, cơ hội mới xuất hiện làm thay đổi yêu cầu. |
+| ▶ Managing requirements. Regardless of whether requirements are documented up front, evolved along the way, or discovered, there is a need to manage them. | ▶ Quản lý yêu cầu. Bất kể yêu cầu được ghi chép từ đầu, phát triển trong quá trình thực hiện hay khám phá, đều cần được quản lý. |
+| Ineffective requirements management can lead to rework, scope creep, customer dissatisfaction, budget overruns, schedule delay, and overall project failure. | Quản lý yêu cầu không hiệu quả có thể dẫn đến làm lại công việc, mở rộng phạm vi ngoài dự kiến, không hài lòng của khách hàng, vượt ngân sách, trễ tiến độ và thất bại chung của dự án. |
+| Therefore, many projects have one accountable person for requirements management. | Do đó, nhiều dự án có một người chịu trách nhiệm quản lý yêu cầu. |
+| This person may serve as business analyst, product owner, value engineer, or other title. | Người này có thể đảm nhiệm vai trò nhà phân tích nghiệp vụ, chủ sở hữu sản phẩm, kỹ sư giá trị hoặc các chức danh khác. |
+| Those individuals managing requirements may use specialized software, backlogs, index cards, traceability matrices, or some other method to ensure there is an appropriate level of requirement flexibility versus stability, and that new and changing requirements are agreed to by all relevant stakeholders. | Những người quản lý yêu cầu có thể sử dụng phần mềm chuyên dụng, backlog, thẻ chỉ mục, ma trận truy xuất hoặc phương pháp khác để đảm bảo mức độ linh hoạt và ổn định của yêu cầu phù hợp, và rằng các yêu cầu mới hoặc thay đổi được tất cả các bên liên quan chấp thuận. |
+| English | Vietnamese |
+|---------|------------|
+| 2.6.2.2 Scope Definition | 2.6.2.2 Định nghĩa phạm vi |
+| As requirements are identified, the scope that will meet them is defined. | Khi các yêu cầu được xác định, phạm vi để đáp ứng các yêu cầu đó cũng được xác định. |
+| Scope is the sum of the products, services, and results to be provided as a project. | Phạm vi là tổng hợp các sản phẩm, dịch vụ và kết quả sẽ được cung cấp trong dự án. |
+| As scope is defined, it creates the need for more requirements identification. | Khi phạm vi được xác định, điều đó tạo ra nhu cầu xác định thêm các yêu cầu. |
+| Therefore, like requirements, scope can be well defined up front, it can evolve over time, or it can be discovered. | Do đó, giống như yêu cầu, phạm vi có thể được xác định rõ ràng ngay từ đầu, phát triển theo thời gian, hoặc được khám phá dần. |
+| ▶ Scope decomposition. Scope can be elaborated using a scope statement to identify the major deliverables associated with the project and the acceptance criteria for each deliverable. | ▶ Phân rã phạm vi. Phạm vi có thể được chi tiết hóa bằng cách sử dụng tuyên bố phạm vi để xác định các kết quả chính của dự án và các tiêu chí chấp nhận cho từng kết quả. |
+| Scope can also be elaborated by decomposing it into lower levels of detail using a work breakdown structure (WBS). | Phạm vi cũng có thể được chi tiết hóa bằng cách phân rã thành các mức chi tiết thấp hơn thông qua cấu trúc phân rã công việc (WBS). |
+| A WBS is a hierarchical decomposition of the total scope of work to be carried out by the project team to accomplish the project objectives and create the required deliverables. | WBS là sự phân rã theo cấp bậc của tổng phạm vi công việc mà nhóm dự án phải thực hiện để đạt được mục tiêu dự án và tạo ra các kết quả yêu cầu. |
+| Each level down in the hierarchy represents a greater level of detail of the deliverable and work required to produce it. | Mỗi cấp thấp hơn trong cấp bậc đại diện cho mức độ chi tiết cao hơn của kết quả và công việc cần thiết để tạo ra nó. |
+| Another way to elaborate scope is by identifying the themes of the project in an agile charter, roadmap, or as part of the product hierarchy. | Một cách khác để chi tiết hóa phạm vi là xác định các chủ đề của dự án trong bản điều lệ agile, lộ trình, hoặc như một phần của hệ thống phân cấp sản phẩm. |
+| Themes represent large groups of customer value reflected as user stories associated by a common factor, such as functionality, data source, or security level. | Các chủ đề đại diện cho các nhóm lớn giá trị khách hàng, được thể hiện dưới dạng các user story liên kết bởi một yếu tố chung, như chức năng, nguồn dữ liệu, hoặc mức độ bảo mật. |
+| To accomplish themes, the project team develops epics, which are logical containers for a large user story that is too big to complete within an iteration. | Để hoàn thành các chủ đề, nhóm dự án phát triển các epic, là các container logic cho một user story lớn mà quá lớn để hoàn thành trong một lần lặp. |
+| Epics may be decomposed into features, a set of related requirements typically described as a short phrase or function, which represent specific behaviors of a product. | Epic có thể được phân rã thành các feature, một tập hợp các yêu cầu liên quan thường được mô tả bằng một cụm từ ngắn hoặc chức năng, đại diện cho các hành vi cụ thể của sản phẩm. |
+| Each feature will have multiple user stories. | Mỗi feature sẽ có nhiều user story. |
+| A user story is a brief description of an outcome for a specific user, which is a promise for a conversation to clarify details. | User story là mô tả ngắn gọn về kết quả cho một người dùng cụ thể, là lời hứa cho một cuộc trao đổi để làm rõ chi tiết. |
+| The project team defines story details at the last responsible moment to avoid wasteful planning should the scope change. | Nhóm dự án xác định chi tiết story vào thời điểm cuối cùng có trách nhiệm để tránh lập kế hoạch lãng phí nếu phạm vi thay đổi. |
+| The story is a clear and concise representation of a requirement written from the end user’s perspective. | Story là sự thể hiện rõ ràng và ngắn gọn của một yêu cầu, được viết từ góc nhìn của người dùng cuối. |
+| English | Vietnamese |
+|---------|------------|
+| ▶ Completion of deliverables | ▶ Hoàn thành các kết quả |
+| Depending on the approach used, there are different ways to describe component or project completion: | Tùy thuộc vào phương pháp được sử dụng, có nhiều cách khác nhau để mô tả việc hoàn thành thành phần hoặc dự án: |
+| ▹ Acceptance or completion criteria. The criteria required to be met before the customer accepts the deliverable or before the project is considered complete are often documented in a scope statement. | ▹ Tiêu chí chấp nhận hoặc hoàn thành. Các tiêu chí cần được đáp ứng trước khi khách hàng chấp nhận kết quả hoặc trước khi dự án được coi là hoàn thành thường được ghi trong tuyên bố phạm vi. |
+| ▹ Technical performance measures. The technical specifications for a product may be documented in a separate specifications document, or they may be documented as an extension to the WBS. This extension, known as a WBS dictionary, elaborates the information for each deliverable (work package) in the WBS. | ▹ Các chỉ số hiệu suất kỹ thuật. Các thông số kỹ thuật của sản phẩm có thể được ghi trong một tài liệu thông số riêng biệt, hoặc được ghi như một phần mở rộng của WBS. Phần mở rộng này, được gọi là từ điển WBS, chi tiết hóa thông tin cho từng kết quả (gói công việc) trong WBS. |
+| ▹ Definition of done. The definition of done is used with adaptive approaches, particularly in software development projects. It is a checklist of all the criteria required to be met so that a deliverable can be considered ready for customer use. | ▹ Định nghĩa hoàn thành (Definition of Done). Định nghĩa hoàn thành được sử dụng trong các phương pháp thích ứng, đặc biệt trong các dự án phát triển phần mềm. Đây là một danh sách kiểm tra tất cả các tiêu chí cần được đáp ứng để một kết quả được coi là sẵn sàng sử dụng cho khách hàng. |
+| 2.6.2.3 Moving Targets of Completion | 2.6.2.3 Mục tiêu hoàn thành thay đổi |
+| Projects that operate in uncertain and rapidly changing environments face the situation that a “good enough for release” or “done” goal may be subject to change. | Các dự án hoạt động trong môi trường không chắc chắn và thay đổi nhanh chóng sẽ đối mặt với tình huống mục tiêu “đủ tốt để phát hành” hoặc “hoàn thành” có thể thay đổi. |
+| In markets where competitors are releasing new products frequently, the features planned for a new release may be updated. | Trong các thị trường nơi đối thủ thường xuyên ra sản phẩm mới, các tính năng dự kiến cho một lần phát hành mới có thể được cập nhật. |
+| Likewise, new technology trends, such as mobile devices or wearable devices, might trigger a change in direction or introduce new requirements. | Tương tự, các xu hướng công nghệ mới, chẳng hạn như thiết bị di động hoặc thiết bị đeo thông minh, có thể dẫn đến thay đổi hướng đi hoặc giới thiệu các yêu cầu mới. |
+| In these environments, the definition of the project goal being delivered or “done” is constantly moving. | Trong những môi trường này, định nghĩa về mục tiêu dự án đang được thực hiện hoặc “hoàn thành” liên tục thay đổi. |
+| Project teams track the planned rate of project goal achievement relative to the rate of progress toward completion. | Nhóm dự án theo dõi tốc độ đạt được mục tiêu dự án theo kế hoạch so với tốc độ tiến độ hoàn thành. |
+| The longer the project takes to complete, the further the project goal of “done” is likely to move. This is sometimes referred to as “done drift.” | Dự án càng kéo dài thời gian hoàn thành, mục tiêu “hoàn thành” của dự án càng có khả năng thay đổi xa hơn. Điều này đôi khi được gọi là “dịch chuyển hoàn thành” (done drift). |
+
+| English | Vietnamese |
+|---------|------------|
+| Figure 2-21 shows a scenario for developing a new smart watch. | Hình 2-21 minh họa một kịch bản phát triển đồng hồ thông minh mới. |
+| The initial schedule shows 12 months to develop the watch with the initial set of capabilities and features. | Lịch trình ban đầu cho thấy 12 tháng để phát triển đồng hồ với bộ năng lực và tính năng ban đầu. |
+| As competitors launch similar products, the initial set of capabilities and features increases to stay relevant with the market. | Khi các đối thủ ra mắt các sản phẩm tương tự, bộ năng lực và tính năng ban đầu được bổ sung để duy trì sự phù hợp với thị trường. |
+| This pushes the launch date to Month 14. | Điều này đẩy ngày ra mắt sang Tháng 14. |
+| At 13 months, another competitor launches a product with even more capabilities. | Vào tháng thứ 13, một đối thủ khác ra mắt sản phẩm với nhiều năng lực hơn nữa. |
+| Adding these capabilities would delay the launch to Month 16. | Việc bổ sung các năng lực này sẽ làm trì hoãn ngày ra mắt đến Tháng 16. |
+| At some point, a decision will be made whether to release the product as is, even though it doesn’t have the latest features, or continue to update the features prior to launch. | Ở một thời điểm nào đó, quyết định sẽ được đưa ra là phát hành sản phẩm như hiện tại, mặc dù nó chưa có các tính năng mới nhất, hay tiếp tục cập nhật các tính năng trước khi ra mắt. |
+
+![Figure 2-21](Project/Figure_2-21._Scenario_for_Developing_a_Smart_Watch.png)
+
+| English | Vietnamese |
+|---------|------------|
+| Projects that operate in a more stable environment often face “scope creep.” | Các dự án hoạt động trong môi trường ổn định hơn thường đối mặt với “scope creep” (trôi phạm vi). |
+| This is when additional scope or requirements are accepted without adjusting the corresponding schedule, budget, or resource needs. | Đây là khi phạm vi hoặc yêu cầu bổ sung được chấp nhận mà không điều chỉnh lịch trình, ngân sách hoặc nhu cầu về nguồn lực tương ứng. |
+| To combat scope creep, project teams use a change control system where all changes are evaluated for the potential value they bring to the project and the potential resources, time, and budget needed to realize the potential value. | Để chống lại scope creep, các nhóm dự án sử dụng hệ thống kiểm soát thay đổi, trong đó tất cả các thay đổi được đánh giá về giá trị tiềm năng mà chúng mang lại cho dự án và các nguồn lực, thời gian, ngân sách cần thiết để thực hiện giá trị tiềm năng đó. |
+| The project team then presents the changes to the project governance body, product owner, or executive sponsor for formal approval. | Nhóm dự án sau đó trình bày các thay đổi này cho cơ quan quản trị dự án, chủ sở hữu sản phẩm, hoặc nhà tài trợ điều hành để được phê duyệt chính thức. |
+| Delivery is more than just scope and requirements. | Việc giao sản phẩm không chỉ liên quan đến phạm vi và yêu cầu. |
+| Scope and requirements focus on what needs to be delivered. | Phạm vi và yêu cầu tập trung vào những gì cần được giao. |
+| Quality focuses on the performance levels that are required to be met. | Chất lượng tập trung vào mức hiệu suất cần được đáp ứng. |
+| Quality requirements may be reflected in the completion criteria, definition of done, statement of work, or requirements documentation. | Các yêu cầu về chất lượng có thể được thể hiện trong tiêu chí hoàn thành, định nghĩa “done”, tuyên bố công việc, hoặc tài liệu yêu cầu. |
+| Much of the costs associated with quality are born by the sponsoring organization and are reflected in policies, procedures, and work processes. | Phần lớn chi phí liên quan đến chất lượng do tổ chức tài trợ chịu và được phản ánh trong các chính sách, thủ tục và quy trình công việc. |
+| For example, organizational policies that govern how work is performed and procedures that prescribe work processes are often part of the organization’s quality policy. | Ví dụ, các chính sách của tổ chức quy định cách thức thực hiện công việc và các thủ tục quy định quy trình công việc thường là một phần của chính sách chất lượng của tổ chức. |
+| The cost of overhead, training, and process audit are born by the organization, though they are employed by the project. | Chi phí quản lý chung, đào tạo và kiểm toán quy trình do tổ chức chịu, mặc dù chúng được áp dụng trong dự án. |
+| Inherent in projects is balancing the quality needs of the processes and products with the costs associated with meeting those needs. | Bản chất của các dự án là cân bằng nhu cầu chất lượng của quy trình và sản phẩm với các chi phí liên quan để đáp ứng những nhu cầu đó. |
+| English | Vietnamese |
+|---------|------------|
+| The cost of quality (COQ) methodology is used to find the appropriate balance for investing in quality prevention and appraisal to avoid defect or product failures. | Phương pháp chi phí chất lượng (COQ) được sử dụng để tìm sự cân bằng thích hợp trong việc đầu tư vào phòng ngừa và đánh giá chất lượng nhằm tránh lỗi hoặc thất bại sản phẩm. |
+| This model identifies four categories of costs associated with quality: prevention, appraisal, internal failure, and external failure. | Mô hình này xác định bốn loại chi phí liên quan đến chất lượng: phòng ngừa, đánh giá, thất bại nội bộ và thất bại bên ngoài. |
+| Prevention and appraisal costs are associated with the cost of compliance to quality requirements. | Chi phí phòng ngừa và đánh giá liên quan đến chi phí tuân thủ các yêu cầu chất lượng. |
+| Internal and external failure costs are associated with the cost of noncompliance. | Chi phí thất bại nội bộ và bên ngoài liên quan đến chi phí không tuân thủ. |
+| Prevention. Prevention costs are incurred to keep defects and failures out of a product. | Phòng ngừa. Chi phí phòng ngừa phát sinh để ngăn chặn lỗi và thất bại trong sản phẩm. |
+| Prevention costs avoid quality problems. They are associated with the design, implementation, and maintenance of the quality management system. | Chi phí phòng ngừa giúp tránh các vấn đề chất lượng. Chúng liên quan đến thiết kế, triển khai và duy trì hệ thống quản lý chất lượng. |
+| They are planned and incurred before actual operation. Examples include: | Chúng được lập kế hoạch và phát sinh trước khi vận hành thực tế. Ví dụ bao gồm: |
+| ▹ Product or service requirements, such as the establishment of specifications for incoming materials, processes, finished products, and services; | ▹ Yêu cầu sản phẩm hoặc dịch vụ, chẳng hạn như thiết lập thông số kỹ thuật cho nguyên liệu đầu vào, quy trình, sản phẩm hoàn thiện và dịch vụ; |
+| ▹ Quality planning, such as the creation of plans for quality, reliability, operations, production, and inspection; | ▹ Lập kế hoạch chất lượng, chẳng hạn như tạo kế hoạch về chất lượng, độ tin cậy, vận hành, sản xuất và kiểm tra; |
+| ▹ Quality assurance, such as the creation and maintenance of the quality system; and | ▹ Đảm bảo chất lượng, chẳng hạn như tạo lập và duy trì hệ thống chất lượng; và |
+| ▹ Training, such as the development, preparation, and maintenance of programs. | ▹ Đào tạo, chẳng hạn như phát triển, chuẩn bị và duy trì các chương trình. |
+| Appraisal. Appraisal costs are incurred to determine the degree of conformance to quality requirements. | Đánh giá. Chi phí đánh giá phát sinh để xác định mức độ tuân thủ các yêu cầu chất lượng. |
+| Appraisal costs are associated with measuring and monitoring activities related to quality. | Chi phí đánh giá liên quan đến các hoạt động đo lường và giám sát chất lượng. |
+| These costs may be associated with evaluation of purchased materials, processes, products, and services to ensure that they conform to specifications. | Những chi phí này có thể liên quan đến việc đánh giá nguyên liệu, quy trình, sản phẩm và dịch vụ mua sắm để đảm bảo chúng tuân thủ thông số kỹ thuật. |
+| They could include: | Chúng có thể bao gồm: |
+| ▹ Verification, such as checking incoming material, process setup, and products against agreed specifications; | ▹ Xác minh, chẳng hạn như kiểm tra nguyên liệu nhập, thiết lập quy trình và sản phẩm theo thông số kỹ thuật đã thỏa thuận; |
+| ▹ Quality audits, such as confirmation that the quality system is functioning correctly; and | ▹ Kiểm toán chất lượng, chẳng hạn như xác nhận hệ thống chất lượng đang hoạt động đúng; và |
+| ▹ Supplier rating, such as assessment and approval of suppliers of products and services. | ▹ Đánh giá nhà cung cấp, chẳng hạn như đánh giá và phê duyệt các nhà cung cấp sản phẩm và dịch vụ. |
+| English | Vietnamese |
+|---------|------------|
+| Internal Failure. Internal failure costs are associated with finding and correcting defects before the customer receives the product. | Thất bại nội bộ. Chi phí thất bại nội bộ liên quan đến việc phát hiện và sửa lỗi trước khi khách hàng nhận sản phẩm. |
+| These costs are incurred when the results of work fail to reach design quality standards. Examples include: | Chi phí này phát sinh khi kết quả công việc không đạt tiêu chuẩn chất lượng thiết kế. Ví dụ bao gồm: |
+| ▹ Waste, such as performance of unnecessary work or holding enough stock to account for errors, poor organization, or communication; | ▹ Lãng phí, chẳng hạn như thực hiện công việc không cần thiết hoặc giữ đủ hàng tồn kho để bù đắp lỗi, tổ chức kém, hoặc giao tiếp kém; |
+| ▹ Scrap, such as defective product or material that cannot be repaired, used, or sold; | ▹ Phế phẩm, chẳng hạn như sản phẩm hoặc nguyên liệu bị lỗi không thể sửa chữa, sử dụng hoặc bán; |
+| ▹ Rework or rectification, such as correction of defective material or errors; and | ▹ Làm lại hoặc sửa chữa, chẳng hạn như chỉnh sửa nguyên liệu bị lỗi hoặc lỗi phát sinh; và |
+| ▹ Failure analysis, such as activities required to establish the causes of internal product or service failure. | ▹ Phân tích thất bại, chẳng hạn như các hoạt động cần thiết để xác định nguyên nhân của thất bại sản phẩm hoặc dịch vụ nội bộ. |
+| External Failure. External failure costs are associated with defects found after the customer has the product and with remediation. | Thất bại bên ngoài. Chi phí thất bại bên ngoài liên quan đến các lỗi được phát hiện sau khi khách hàng đã nhận sản phẩm và các hoạt động khắc phục. |
+| Note that to consider these failures holistically requires thinking about the project's product while it is in operation after months or years, not just at the handover date. | Lưu ý rằng để xem xét các thất bại này một cách toàn diện, cần phải nghĩ về sản phẩm của dự án khi nó đang vận hành sau nhiều tháng hoặc năm, không chỉ vào ngày bàn giao. |
+| External failure costs occur when products or services that fail to reach design quality standards are not detected until after they have reached the customer. Examples include: | Chi phí thất bại bên ngoài phát sinh khi sản phẩm hoặc dịch vụ không đạt tiêu chuẩn chất lượng thiết kế nhưng không được phát hiện cho đến khi đã đến tay khách hàng. Ví dụ bao gồm: |
+| ▹ Repairs and servicing, for both returned products and those that are deployed; | ▹ Sửa chữa và bảo trì, cho cả sản phẩm trả lại và sản phẩm đã triển khai; |
+| ▹ Warranty claims, such as failed products that are replaced or services that are reperformed under a guarantee; | ▹ Yêu cầu bảo hành, chẳng hạn như sản phẩm lỗi được thay thế hoặc dịch vụ được thực hiện lại theo bảo đảm; |
+| ▹ Complaints, for all work and costs associated with handling and servicing customers’ complaints; | ▹ Khiếu nại, cho tất cả công việc và chi phí liên quan đến xử lý và phục vụ các khiếu nại của khách hàng; |
+| ▹ Returns, for handling and investigation of rejected or recalled products, including transport costs; and | ▹ Trả hàng, cho việc xử lý và điều tra sản phẩm bị từ chối hoặc thu hồi, bao gồm chi phí vận chuyển; và |
+| ▹ Reputation, where reputation and public perception can be damaged depending on the type and severity of defects. | ▹ Uy tín, nơi mà danh tiếng và nhận thức của công chúng có thể bị ảnh hưởng tùy theo loại và mức độ nghiêm trọng của lỗi. |
+| To optimize delivered value, early inspection and review work focused on finding quality issues as soon as possible are good investments. | Để tối ưu hóa giá trị được cung cấp, việc kiểm tra và đánh giá sớm nhằm phát hiện các vấn đề chất lượng càng sớm càng tốt là những khoản đầu tư tốt. |
+| Attempts to “test-quality-in” late in the development life cycle are likely to fail because discovering quality issues late in development is time- and cost-prohibitive due to high rates of scrap and rework, along with the ripple effect to downstream outputs and stakeholders. | Việc cố gắng “kiểm tra chất lượng muộn” trong vòng đời phát triển có khả năng thất bại vì phát hiện vấn đề chất lượng muộn sẽ tốn nhiều thời gian và chi phí do tỷ lệ phế phẩm và làm lại cao, cùng với hiệu ứng lan tỏa đến các kết quả và bên liên quan tiếp theo. |
+
+| English | Vietnamese |
+|---------|------------|
+| 2.6.3.2 Cost of Change | 2.6.3.2 Chi phí Thay đổi |
+| The later a defect is found, the more expensive it is to correct. | Lỗi được phát hiện càng muộn, chi phí để sửa chữa càng cao. |
+| This is because design and development work have typically already occurred based on the flawed component. | Điều này là do công việc thiết kế và phát triển thường đã được thực hiện dựa trên thành phần bị lỗi. |
+| Also, activities are more costly to modify as the life cycle progresses since more stakeholders are impacted. | Ngoài ra, việc sửa đổi các hoạt động trở nên tốn kém hơn khi vòng đời tiến triển vì có nhiều bên liên quan bị ảnh hưởng. |
+| This phenomenon is characterized by the cost of change curve (see Figure 2-22). | Hiện tượng này được minh họa bởi đường cong chi phí thay đổi (xem Hình 2-22). |
+
+![Figure 2-22](Project/Figure_2-22._Cost_of_Change_Curve.png)
+
+| English | Vietnamese |
+|---------|------------|
+| To counter the impacts of the cost of change curve, project teams design project processes to build in quality. | Để giảm tác động của đường cong chi phí thay đổi, các nhóm dự án thiết kế quy trình dự án để tích hợp chất lượng. |
+| This approach can include quality analysts working with designers and engineers to understand and determine how best to achieve quality during each step in the project life cycle. | Cách tiếp cận này có thể bao gồm các chuyên gia phân tích chất lượng làm việc với nhà thiết kế và kỹ sư để hiểu và xác định cách tốt nhất đạt được chất lượng trong từng bước của vòng đời dự án. |
+| Being proactive about quality work helps avoid the high cost of change associated with fixing quality issues discovered later in the life cycle. | Chủ động trong công việc chất lượng giúp tránh chi phí cao khi thay đổi liên quan đến việc sửa các vấn đề chất lượng được phát hiện muộn trong vòng đời. |
+| It is quicker and more cost efficient to fix a design problem between two engineers than a component problem affecting hundreds of units or to recall a product impacting thousands of customers. | Sửa một vấn đề thiết kế giữa hai kỹ sư nhanh hơn và tiết kiệm chi phí hơn so với một vấn đề linh kiện ảnh hưởng đến hàng trăm sản phẩm hoặc thu hồi sản phẩm ảnh hưởng đến hàng nghìn khách hàng. |
+| 2.6.4 Suboptimal Outcomes | 2.6.4 Kết quả Không tối ưu |
+| All projects attempt to deliver outcomes, though some may fail to do so or may produce suboptimal outcomes. | Tất cả các dự án đều cố gắng mang lại kết quả, mặc dù một số có thể không thành công hoặc tạo ra kết quả không tối ưu. |
+| The potential for suboptimal outcomes exists in every project. | Khả năng tạo ra kết quả không tối ưu tồn tại trong mọi dự án. |
+| In the case of a fully experimental project, the organization is attempting to achieve a breakthrough, such as the creation of a completely new technology, for example. | Trong trường hợp dự án hoàn toàn thử nghiệm, tổ chức đang cố gắng đạt được một bước đột phá, chẳng hạn như tạo ra một công nghệ hoàn toàn mới. |
+| This requires deliberate investment in an uncertain outcome. | Điều này đòi hỏi đầu tư có chủ ý vào một kết quả chưa chắc chắn. |
+| Companies that produce new medicines or compounds may experience several failures before finding a successful formula. | Các công ty sản xuất thuốc mới hoặc hợp chất có thể trải qua nhiều thất bại trước khi tìm ra công thức thành công. |
+| Some projects may fail to deliver outcomes because the market opportunity has passed or competitors were first to market with their offering. | Một số dự án có thể không mang lại kết quả vì cơ hội thị trường đã qua hoặc đối thủ đã đi trước trong việc cung cấp sản phẩm. |
+| Effective project management can minimize negative outcomes, but such possibilities are part of the uncertainty of attempting to produce a unique deliverable. | Quản lý dự án hiệu quả có thể giảm thiểu kết quả tiêu cực, nhưng những khả năng này là một phần của sự không chắc chắn khi cố gắng tạo ra sản phẩm độc đáo. |
+| 2.6.5 Interactions with Other Performance Domains | 2.6.5 Tương tác với Các Miền Hiệu Suất Khác |
+| The Delivery Performance Domain is the culmination of the work done in the Planning Performance Domain. | Miền Hiệu Suất Giao Hàng là đỉnh cao của công việc đã thực hiện trong Miền Hiệu Suất Lập Kế Hoạch. |
+| The delivery cadence is based on the way work is structured in the Development Approach and Life Cycle Performance Domain. | Nhịp độ giao hàng dựa trên cách công việc được cấu trúc trong Miền Hiệu Suất Phương Pháp Phát Triển và Vòng Đời. |
+| The Project Work Performance Domain enables the deliveries by establishing processes, managing physical resources, managing procurements, and so forth. | Miền Hiệu Suất Công Việc Dự Án hỗ trợ việc giao hàng bằng cách thiết lập quy trình, quản lý nguồn lực vật chất, quản lý mua sắm, v.v. |
+| Project team members perform the work in this performance domain for the relevant stakeholders. | Các thành viên nhóm dự án thực hiện công việc trong miền hiệu suất này cho các bên liên quan phù hợp. |
+| The nature of the work to create the deliveries will influence how the project team navigates uncertainty that impacts the project. | Bản chất công việc tạo ra các sản phẩm sẽ ảnh hưởng đến cách nhóm dự án điều hướng sự không chắc chắn tác động đến dự án. |
+| English | Vietnamese |
+|---------|------------|
+| 2.6.6 CHECKING RESULTS | 2.6.6 KIỂM TRA KẾT QUẢ |
+| Table 2-8 identifies the outcomes on the left and ways of checking them on the right. | Bảng 2-8 liệt kê các kết quả ở cột bên trái và cách kiểm tra chúng ở cột bên phải. |
+
+![Table 2-8](Project/Table_2-8._Checking_Outcomes-Delivery_Performance_Domain.png)
+
+| English | Vietnamese |
+|---------|------------|
+| 2.7 MEASUREMENT PERFORMANCE DOMAIN | 2.7 LĨNH VỰC HIỆU SUẤT ĐO LƯỜNG |
